@@ -1,0 +1,14 @@
+{
+  "name": "horizonte-livre",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Portal leve de acesso a recursos educacionais e organização de estudos",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "dev": "node scripts/servir.mjs",
+    "catalogo": "node scripts/gerar-catalogo.mjs",
+    "check": "node scripts/validar.mjs",
+    "test": "node --test"
+  }
+}

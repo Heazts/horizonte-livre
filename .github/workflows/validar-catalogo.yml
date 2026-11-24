@@ -1,0 +1,26 @@
+name: Validar catálogo
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v6
+      - name: Preparar Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Validar estrutura do catálogo
+        run: npm run check
+      - name: Testar verificações do projeto
+        run: npm test

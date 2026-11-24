@@ -1,0 +1,22 @@
+# Arquivos originais e cópias de trabalho nunca entram no histórico público.
+/acervo/*
+!/acervo/README.md
+!/acervo/.gitkeep
+/catalogo/recursos.json
+*.zip
+*.ZIP
+*.pdf
+*.PDF
+*.jpg
+*.JPG
+
+# Saídas e arquivos locais.
+node_modules/
+.DS_Store
+Thumbs.db
+.openai/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
