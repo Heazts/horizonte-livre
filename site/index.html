@@ -94,7 +94,7 @@
       <div class="container">
         <div class="section-heading">
           <div><p class="eyebrow">NOSSO INVENTÁRIO</p><h2>Um acervo em<br><em>construção.</em></h2></div>
-          <p>Explore o que já foi organizado. Os arquivos de cursinhos estão em revisão de origem e permissão, portanto ainda não podem ser baixados aqui.</p>
+          <p>Encontre provas, gabaritos e outros materiais no acervo. Use os filtros para localizar o que procura e acesse os arquivos disponíveis.</p>
         </div>
         <div class="catalog-layout">
           <aside class="catalog-side">
@@ -103,7 +103,7 @@
             <div class="side-line"></div>
             <strong id="total-colecoes">9 coleções</strong>
             <p>O ano e o tipo são sugeridos a partir do nome do arquivo e podem precisar de revisão.</p>
-            <a href="#direitos" class="underlined-link">Entenda a revisão</a>
+            <a href="#direitos" class="underlined-link">Conheça as fontes</a>
           </aside>
           <div class="catalog-main">
             <form id="filtros" class="filters" role="search">
@@ -111,8 +111,11 @@
               <div class="field"><label for="colecao">Coleção</label><select id="colecao"><option value="">Todas as coleções</option></select></div>
               <div class="field"><label for="tipo">Tipo sugerido</label><select id="tipo"><option value="">Todos os tipos</option></select></div>
               <div class="field"><label for="ano">Ano sugerido</label><select id="ano"><option value="">Todos os anos</option></select></div>
-              <label class="check-favorite"><input type="checkbox" id="apenas-favoritos"> Mostrar favoritos</label>
-              <button type="reset" class="link-button">Limpar filtros</button>
+              <div class="filter-toggles">
+                <label class="check-favorite"><input type="checkbox" id="apenas-favoritos"> Mostrar favoritos</label>
+                <label class="check-favorite"><input type="checkbox" id="apenas-disponiveis"> Somente disponíveis</label>
+                <button type="reset" class="link-button">Limpar filtros</button>
+              </div>
             </form>
             <div class="results-top"><p id="resultado-contagem" aria-live="polite">Carregando o acervo...</p><span>ARQUIVOS INDIVIDUAIS</span></div>
             <div id="resultados" class="result-list"></div>
@@ -157,7 +160,7 @@
       </div>
     </section>
     <section class="rights-section" id="direitos">
-      <div class="container rights-inner"><span class="rights-icon" aria-hidden="true">✳</span><div><h2>Respeitar a origem faz parte do caminho.</h2><p>Os materiais das coleções locais foram identificados, mas a permissão para redistribuí-los ainda não foi confirmada. Até lá, indicamos caminhos diretos para conteúdos disponibilizados pelas fontes oficiais.</p></div></div>
+      <div class="container rights-inner"><span class="rights-icon" aria-hidden="true">✳</span><div><h2>Respeitar a origem faz parte do caminho.</h2><p>Os materiais são identificados por coleção e disponibilizados conforme a autorização informada ao projeto. Você também pode acessar conteúdos diretamente nas fontes oficiais.</p></div></div>
     </section>
   </main>
   <footer class="site-footer"><div class="container footer-top"><div><a class="brand footer-brand" href="#inicio"><span class="brand-mark" aria-hidden="true"><span></span></span><span>horizonte<span class="brand-light">livre</span></span></a><p>O conhecimento abre caminhos.<br>Vamos mais longe juntos.</p></div><div><span>EXPLORE</span><a href="#fontes">Materiais</a><a href="#acervo">Acervo</a><a href="#meu-estudo">Meu estudo</a></div><div><span>O PROJETO</span><a href="#sobre">Nossa ideia</a><a href="#direitos">Fontes e direitos</a><a href="https://github.com/Heazts/horizonte-livre" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (abre em nova aba)</span></a></div><div class="footer-message">Estudar abre<br><em>horizontes.</em> ✳</div></div><div class="container footer-bottom"><span>HORIZONTE LIVRE · ACESSO AO CONHECIMENTO</span><a href="#inicio">Voltar ao início</a></div></footer>

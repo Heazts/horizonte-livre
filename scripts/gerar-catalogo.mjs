@@ -8,6 +8,11 @@ const internal = read('catalogo/recursos.json');
 const permissions = read('catalogo/permissoes.json');
 const decisions = permissions.recursos || {};
 
+function sentenceCase(value) {
+  const text = String(value).replace(/@[\p{L}\p{N}_.-]+/gu, '').replace(/\s+/g, ' ').trim().toLocaleLowerCase('pt-BR');
+  return text ? text.replace(/\p{L}/u, (letter) => letter.toLocaleUpperCase('pt-BR')) : 'Material de estudo';
+}
+
 function yearFromPath(path) {
   const matches = [...String(path).matchAll(/(?<!\d)(?:19|20)\d{2}(?!\d)/g)].map((match) => Number(match[0]));
   const unique = [...new Set(matches)].filter((year) => year >= 1998 && year <= 2100);
@@ -25,12 +30,12 @@ function typeFromName(path) {
 
 const collections = internal.colecoes.map(({ id, titulo }) => ({
   id,
-  titulo: titulo.replace(/\s+/g, ' ').trim()
+  titulo: sentenceCase(titulo)
 }));
 const resources = internal.recursos.map((resource) => {
   const decision = decisions[resource.id];
   const status = decision?.status ?? 'revisao_de_direitos';
-  const title = String(resource.titulo).replace(/@[\p{L}\p{N}_.-]+/gu, '').replace(/\s+/g, ' ').trim() || 'Material sem título';
+  const title = sentenceCase(decision?.titulo ?? resource.titulo);
   return {
     id: resource.id,
     colecaoId: resource.colecaoId,

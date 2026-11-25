@@ -16,3 +16,10 @@
 .resource-meta,.resource-status,.source-note,.privacy-note,
 .header-inner nav a,.source-card a,.underlined-link,.link-button,
 .small-button,.catalog-side p:not(.side-count){font-size:.875rem}
+
+.filter-toggles{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1.5rem}
+.filter-toggles .link-button{margin-left:auto}
+.status-available{color:#145d42}
+.result-link{display:inline-block;border:1px solid var(--ink);padding:.5rem .8rem;font-size:.875rem;text-decoration:none}
+.result-link:hover{background:var(--ink);color:var(--paper)}
+@media(max-width:37rem){.filter-toggles .link-button{margin-left:0}}

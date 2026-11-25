@@ -7,6 +7,7 @@ const collectionFilter = $('#colecao');
 const typeFilter = $('#tipo');
 const yearFilter = $('#ano');
 const favoritesFilter = $('#apenas-favoritos');
+const availableFilter = $('#apenas-disponiveis');
 const pagination = $('#paginacao');
 const previousButton = $('#anterior');
 const nextButton = $('#proxima');
@@ -84,6 +85,7 @@ function renderResults() {
       (!collectionFilter.value || item.colecaoId === collectionFilter.value) &&
       (!typeFilter.value || item.tipo === typeFilter.value) &&
       (!yearFilter.value || String(item.ano) === yearFilter.value) &&
+      (!availableFilter.checked || (['autorizado', 'link_para_fonte'].includes(item.status) && safeUrl(item.url))) &&
       (!favoritesFilter.checked || state.favorites.includes(item.id));
   });
   const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
@@ -103,17 +105,24 @@ function renderResults() {
       item.extensao,
       bytes(item.tamanhoBytes)
     ].join(' · '));
-    const status = item.status === 'autorizado' ? 'Disponível para baixar' :
-      item.status === 'link_para_fonte' ? 'Disponível na fonte' :
-      item.status === 'removido' ? 'Indisponível' : 'Em revisão de origem e direitos';
-    content.append(title, meta, node('p', 'resource-status', status));
     const url = safeUrl(item.url);
+    const available = Boolean(url && (item.status === 'autorizado' || item.status === 'link_para_fonte'));
+    const status = item.status === 'removido' ? 'Indisponível' :
+      item.status === 'autorizado' && available ? 'Disponível para baixar' :
+      item.status === 'link_para_fonte' && available ? 'Disponível na fonte' :
+      item.status === 'autorizado' || item.status === 'link_para_fonte' ? 'Link temporariamente indisponível' :
+      'Ainda não disponível';
+    content.append(title, meta, node('p', available ? 'resource-status status-available' : 'resource-status', status));
     if (url && (item.status === 'autorizado' || item.status === 'link_para_fonte')) {
-      const link = node('a', 'result-link', item.status === 'autorizado' ? 'Acessar material autorizado' : 'Acessar fonte original');
+      const isDownload = item.status === 'autorizado';
+      const link = node('a', 'result-link', isDownload ? 'Baixar arquivo' : 'Acessar fonte original');
       link.href = url;
-      link.target = '_blank';
       link.rel = 'noopener noreferrer';
-      link.append(node('span', 'sr-only', ' (abre em nova aba)'));
+      link.setAttribute('aria-label', (isDownload ? 'Baixar arquivo: ' : 'Acessar fonte original: ') + item.titulo);
+      if (!isDownload) {
+        link.target = '_blank';
+        link.append(node('span', 'sr-only', ' (abre em nova aba)'));
+      }
       content.append(link);
     }
     const favorite = node('button', 'favorite-button', state.favorites.includes(item.id) ? '★' : '☆');
@@ -154,7 +163,7 @@ async function loadCatalog() {
     countNode.textContent = 'Não foi possível carregar o catálogo. Os links para fontes oficiais continuam disponíveis.';
   }
 }
-for (const filter of [search, collectionFilter, typeFilter, yearFilter, favoritesFilter]) {
+for (const filter of [search, collectionFilter, typeFilter, yearFilter, favoritesFilter, availableFilter]) {
   filter.addEventListener(filter === search ? 'input' : 'change', () => { page = 1; renderResults(); });
 }
 form.addEventListener('submit', (event) => event.preventDefault());

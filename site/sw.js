@@ -1,4 +1,4 @@
-const CACHE = 'horizonte-livre-shell-v3';
+const CACHE = 'horizonte-livre-shell-v4';
 const FILES = ['./', './index.html', './styles.css', './app.js', './catalogo.json', './icone.svg'];
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(FILES)));

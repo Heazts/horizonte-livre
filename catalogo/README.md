@@ -2,7 +2,8 @@
 
 - `recursos.json`: inventário técnico local, gerado a partir dos ZIPs. Contém
   caminhos e nomes de origem e é ignorado pelo Git.
-- `permissoes.json`: decisões editoriais por ID de recurso. Começa vazio.
+- `permissoes.json`: decisões editoriais por ID de recurso, incluindo a confirmação
+  informada pelo responsável pelo projeto para o acervo inicial.
 - `../site/catalogo.json`: versão pública sem caminhos locais, gerada com
   `npm run catalogo` e validada com `npm run check`.
 

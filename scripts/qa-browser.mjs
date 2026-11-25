@@ -22,6 +22,16 @@ try {
   await page.goto(process.env.HORIZONTE_URL || 'http://127.0.0.1:8080/', { waitUntil: 'networkidle', timeout: 60000 });
   await page.locator('#resultado-contagem').getByText('564 materiais encontrados').waitFor({ timeout: 30000 });
   assert.equal(await page.locator('.resource-row').count(), 12);
+  if (process.env.HORIZONTE_TESTAR_DOWNLOADS === '1') {
+    await page.locator('#apenas-disponiveis').check();
+    assert.match(await page.locator('#resultado-contagem').textContent(), /564 materiais encontrados/);
+    const href = await page.locator('.result-link').first().getAttribute('href');
+    assert.match(href, /^https:\/\/github\.com\/Heazts\/horizonte-livre\/releases\/download\//);
+    const download = await page.request.get(href, { timeout: 60000 });
+    assert.equal(download.status(), 200, 'Download de amostra não respondeu com sucesso');
+    assert.equal((await download.body()).subarray(0, 5).toString(), '%PDF-', 'Amostra não é PDF');
+    await page.locator('#apenas-disponiveis').uncheck();
+  }
   assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true);
   await page.screenshot({ path: resolve(tmpdir(), 'horizonte-livre-desktop.png'), fullPage: true });
   await page.locator('#busca').fill('Bernoulli');

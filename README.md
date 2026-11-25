@@ -11,18 +11,18 @@ computador, com interface leve e sem cadastro.
 
 - Links diretos às páginas oficiais de provas e gabaritos do INEP para ENEM e
   Encceja e à página de provas e soluções da OBMEP.
-- Índice pesquisável de **564 arquivos de 9 coleções** recebidas pelo projeto.
-  O tipo e o ano são sugestões extraídas do nome e precisam de revisão.
+- Índice pesquisável com downloads individuais de **564 arquivos de 9 coleções**.
+  O tipo e o ano são sugestões extraídas do nome e podem precisar de revisão.
 - Favoritos, lista de tarefas e cronômetro de foco. Favoritos e tarefas ficam
   neste navegador; não há contas nem sincronização.
 - Uma cópia local dos arquivos do portal, após o primeiro acesso, quando o
   navegador permitir armazenamento. Os sites externos e os PDFs não ficam
   automaticamente disponíveis offline.
 
-Os arquivos dos cursinhos estão em **revisão de origem e direitos**: a posse
-dos ZIPs não comprova autorização de redistribuição. Por enquanto, eles
-aparecem no catálogo, mas não são oferecidos para download público. A
-disponibilidade das provas oficiais também depende de suas instituições.
+O responsável pelo projeto informou que a redistribuição das coleções foi
+aprovada. Os arquivos são oferecidos como anexos da release do GitHub; os
+originais locais permanecem preservados. A disponibilidade das provas
+oficiais também depende de suas instituições.
 
 ## Executar localmente
 
