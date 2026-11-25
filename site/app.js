@@ -18,6 +18,8 @@ const taskStatus = $('#tarefas-status');
 const storageKey = 'horizonte-livre-v1';
 const pageSize = 12;
 let catalog = { colecoes: [], recursos: [] };
+let catalogContent;
+let catalogLoading = false;
 let page = 1;
 let storageAvailable = true;
 
@@ -65,11 +67,14 @@ function safeUrl(value) {
   }
 }
 function fillSelect(select, entries) {
+  const previousValue = select.value;
+  select.length = 1;
   entries.forEach(([value, label]) => {
     const option = node('option', '', label);
     option.value = value;
     select.append(option);
   });
+  if (entries.some(([value]) => value === previousValue)) select.value = previousValue;
 }
 function bytes(value) {
   if (!Number.isFinite(value) || value < 0) return 'Tamanho não informado';
@@ -147,12 +152,18 @@ function renderResults() {
   nextButton.disabled = page === totalPages;
 }
 async function loadCatalog() {
+  if (catalogLoading) return;
+  catalogLoading = true;
   try {
-    const response = await fetch('catalogo.json');
+    const response = await fetch('catalogo.json?v=5', { cache: 'no-cache' });
     if (!response.ok) throw new Error('Catálogo indisponível');
-    const data = await response.json();
+    const content = await response.text();
+    if (content === catalogContent) return;
+    const data = JSON.parse(content);
     if (!Array.isArray(data.colecoes) || !Array.isArray(data.recursos)) throw new Error('Catálogo inválido');
     catalog = data;
+    catalogContent = content;
+    $('#acervo-alternativo').hidden = true;
     $('#total-recursos').textContent = String(data.recursos.length);
     $('#total-colecoes').textContent = data.colecoes.length + ' coleções';
     fillSelect(collectionFilter, data.colecoes.map((item) => [item.id, item.titulo]));
@@ -160,7 +171,12 @@ async function loadCatalog() {
     fillSelect(yearFilter, [...new Set(data.recursos.map((item) => item.ano).filter(Number.isInteger))].sort((a, b) => b - a).map((year) => [String(year), String(year)]));
     renderResults();
   } catch {
-    countNode.textContent = 'Não foi possível carregar o catálogo. Os links para fontes oficiais continuam disponíveis.';
+    if (!catalogContent) {
+      countNode.textContent = 'Não foi possível carregar o catálogo.';
+      $('#acervo-alternativo').hidden = false;
+    }
+  } finally {
+    catalogLoading = false;
   }
 }
 for (const filter of [search, collectionFilter, typeFilter, yearFilter, favoritesFilter, availableFilter]) {
@@ -265,6 +281,22 @@ document.addEventListener('visibilitychange', updateTimer);
 renderTasks();
 if (!storageAvailable) taskStatus.textContent = 'O armazenamento deste navegador não está disponível. Seus dados podem não ser salvos.';
 loadCatalog();
+window.addEventListener('online', loadCatalog);
+window.addEventListener('pageshow', (event) => { if (event.persisted) loadCatalog(); });
+document.addEventListener('visibilitychange', () => { if (!document.hidden) loadCatalog(); });
+
 if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1')) {
-  navigator.serviceWorker.register('sw.js').catch(() => {});
+  let controller = navigator.serviceWorker.controller;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    const next = navigator.serviceWorker.controller;
+    if (controller && next && controller !== next) $('#atualizacao-portal').hidden = false;
+    controller = next;
+    loadCatalog();
+  });
+  $('#atualizar-portal').addEventListener('click', () => location.reload());
+  navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then((registration) => {
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden && navigator.onLine) registration.update().catch(() => {});
+    });
+  }).catch(() => {});
 }

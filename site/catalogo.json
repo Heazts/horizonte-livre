@@ -42,7 +42,7 @@
     {
       "id": "bernoulli-2026-0001",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Dia 1 simulado 4_2020",
+      "titulo": "Simulado Bernoulli nº 4 (2020) — 1º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -53,8 +53,8 @@
     {
       "id": "bernoulli-2026-0002",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Dia 2 simado 4_2020",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2020) — 2º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 804124,
@@ -64,7 +64,7 @@
     {
       "id": "bernoulli-2026-0003",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Dia 2 - simu 4",
+      "titulo": "Simulado Bernoulli nº 4 (2020) — 2º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -75,7 +75,7 @@
     {
       "id": "bernoulli-2026-0004",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu bernoulli 1 dia",
+      "titulo": "Simulado Bernoulli (2020) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -86,8 +86,8 @@
     {
       "id": "bernoulli-2026-0005",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 8 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 1393991,
@@ -97,7 +97,7 @@
     {
       "id": "bernoulli-2026-0006",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3 Simu dia 1",
+      "titulo": "Simulado Bernoulli nº 3 (2021) — 1º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -108,7 +108,7 @@
     {
       "id": "bernoulli-2026-0007",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 6 dia 1",
+      "titulo": "Simulado Bernoulli nº 6 (2021) — 1º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -119,7 +119,7 @@
     {
       "id": "bernoulli-2026-0008",
       "colecaoId": "bernoulli-2026",
-      "titulo": "6 Simu dia 1",
+      "titulo": "Simulado Bernoulli nº 6 (2021) — 1º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -130,7 +130,7 @@
     {
       "id": "bernoulli-2026-0009",
       "colecaoId": "bernoulli-2026",
-      "titulo": "7 Simu dia 1",
+      "titulo": "Simulado Bernoulli nº 7 (2021) — 1º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -141,7 +141,7 @@
     {
       "id": "bernoulli-2026-0010",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab bernoulli 1 dia",
+      "titulo": "Gabarito do simulado Bernoulli (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -152,8 +152,8 @@
     {
       "id": "bernoulli-2026-0011",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3º bernoulli - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 3 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 2355884,
@@ -163,7 +163,7 @@
     {
       "id": "bernoulli-2026-0012",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernou dia 02 - simu 01_2023",
+      "titulo": "Simulado Bernoulli nº 1 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -174,7 +174,7 @@
     {
       "id": "bernoulli-2026-0013",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 1 dia 2(1)",
+      "titulo": "Simulado Bernoulli nº 1 (2021) — 2º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -185,7 +185,7 @@
     {
       "id": "bernoulli-2026-0014",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu bernoulli 2 dia",
+      "titulo": "Simulado Bernoulli (2020) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -196,7 +196,7 @@
     {
       "id": "bernoulli-2026-0015",
       "colecaoId": "bernoulli-2026",
-      "titulo": "7 Simu dia 2",
+      "titulo": "Simulado Bernoulli nº 7 (2021) — 2º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -207,8 +207,8 @@
     {
       "id": "bernoulli-2026-0016",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D1 - 4º bernoulli",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 3474528,
@@ -218,7 +218,7 @@
     {
       "id": "bernoulli-2026-0017",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3 Simu dia 2",
+      "titulo": "Simulado Bernoulli nº 3 (2021) — 2º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -229,7 +229,7 @@
     {
       "id": "bernoulli-2026-0018",
       "colecaoId": "bernoulli-2026",
-      "titulo": "7 Simu dia 1(1)",
+      "titulo": "Simulado Bernoulli nº 7 (2021) — 1º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -240,8 +240,8 @@
     {
       "id": "bernoulli-2026-0019",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D1 - 2º bernoulli",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 2 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 2327827,
@@ -251,7 +251,7 @@
     {
       "id": "bernoulli-2026-0020",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 1 dia 1",
+      "titulo": "Simulado Bernoulli nº 1 (2021) — 1º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -262,7 +262,7 @@
     {
       "id": "bernoulli-2026-0021",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 1 dia 1(1)",
+      "titulo": "Simulado Bernoulli nº 1 (2021) — 1º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -273,7 +273,7 @@
     {
       "id": "bernoulli-2026-0022",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Dia 1 - simu 4",
+      "titulo": "Simulado Bernoulli nº 4 (2020) — 1º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -284,7 +284,7 @@
     {
       "id": "bernoulli-2026-0023",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 - 4º bernoul",
+      "titulo": "Gabarito do simulado Bernoulli nº 4 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -295,8 +295,8 @@
     {
       "id": "bernoulli-2026-0024",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 5 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2455523,
@@ -306,8 +306,8 @@
     {
       "id": "bernoulli-2026-0025",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3º bernoulli - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 3 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 2890473,
@@ -317,7 +317,7 @@
     {
       "id": "bernoulli-2026-0026",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1_5037384858771391272",
+      "titulo": "Material de estudo do simulado Bernoulli nº 6 (2022)",
       "tipo": "Material de apoio",
       "ano": 2022,
       "extensao": "PDF",
@@ -328,7 +328,7 @@
     {
       "id": "bernoulli-2026-0027",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2 - 2º bernoulli",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -339,8 +339,8 @@
     {
       "id": "bernoulli-2026-0028",
       "colecaoId": "bernoulli-2026",
-      "titulo": "2º bernoulli 2024 d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 2 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 2997917,
@@ -350,8 +350,8 @@
     {
       "id": "bernoulli-2026-0029",
       "colecaoId": "bernoulli-2026",
-      "titulo": "2º bernoulli 2024 d2-",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 2 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 2384817,
@@ -361,8 +361,8 @@
     {
       "id": "bernoulli-2026-0030",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 8 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 3470042,
@@ -372,7 +372,7 @@
     {
       "id": "bernoulli-2026-0031",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 1 dia 2",
+      "titulo": "Simulado Bernoulli nº 1 (2021) — 2º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -383,7 +383,7 @@
     {
       "id": "bernoulli-2026-0032",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito - 8° simulado enem bernoulli, dia 01",
+      "titulo": "Gabarito do simulado Bernoulli nº 8 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -394,7 +394,7 @@
     {
       "id": "bernoulli-2026-0033",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 3 dia 1",
+      "titulo": "Simulado Bernoulli nº 3 (2021) — 1º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -405,7 +405,7 @@
     {
       "id": "bernoulli-2026-0034",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito bernou dia 01 - simu 01_2023",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -416,7 +416,7 @@
     {
       "id": "bernoulli-2026-0035",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 00 - dia 01",
+      "titulo": "Simulado Bernoulli nº 0 (2026) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -427,8 +427,8 @@
     {
       "id": "bernoulli-2026-0036",
       "colecaoId": "bernoulli-2026",
-      "titulo": "2- Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 2 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 1857407,
@@ -438,8 +438,8 @@
     {
       "id": "bernoulli-2026-0037",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab2",
-      "tipo": "Material de apoio",
+      "titulo": "Gabarito do simulado Bernoulli nº 5 (2023) — 2º dia",
+      "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 1940821,
@@ -449,7 +449,7 @@
     {
       "id": "bernoulli-2026-0038",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1º bernoulli 2025 - gab d1",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2025) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -460,7 +460,7 @@
     {
       "id": "bernoulli-2026-0039",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab bernoulli 2 dia",
+      "titulo": "Gabarito do simulado Bernoulli (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -471,7 +471,7 @@
     {
       "id": "bernoulli-2026-0040",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 3 dia 2",
+      "titulo": "Simulado Bernoulli nº 3 (2021) — 2º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -482,7 +482,7 @@
     {
       "id": "bernoulli-2026-0041",
       "colecaoId": "bernoulli-2026",
-      "titulo": "[Prova dia 1] bernoulli zero 2023",
+      "titulo": "Simulado Bernoulli nº 0 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -493,7 +493,7 @@
     {
       "id": "bernoulli-2026-0042",
       "colecaoId": "bernoulli-2026",
-      "titulo": "6 Simu dia 2",
+      "titulo": "Simulado Bernoulli nº 6 (2021) — 2º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -504,8 +504,8 @@
     {
       "id": "bernoulli-2026-0043",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D1_",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 5 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 2360683,
@@ -515,7 +515,7 @@
     {
       "id": "bernoulli-2026-0044",
       "colecaoId": "bernoulli-2026",
-      "titulo": "[Prova dia 2] bernoulli zero 2023",
+      "titulo": "Simulado Bernoulli nº 0 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -526,7 +526,7 @@
     {
       "id": "bernoulli-2026-0045",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito bernoulli 6 1o dia",
+      "titulo": "Gabarito do simulado Bernoulli nº 6 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -537,7 +537,7 @@
     {
       "id": "bernoulli-2026-0046",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 - 2º bernoulli",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -548,7 +548,7 @@
     {
       "id": "bernoulli-2026-0047",
       "colecaoId": "bernoulli-2026",
-      "titulo": "C.extra_p2_oti",
+      "titulo": "Material de estudo do simulado extra Bernoulli (2023) — arquivo 1",
       "tipo": "Material de apoio",
       "ano": 2023,
       "extensao": "PDF",
@@ -559,7 +559,7 @@
     {
       "id": "bernoulli-2026-0048",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 00 - dia 01 - gabarito comentado",
+      "titulo": "Gabarito comentado do simulado Bernoulli nº 0 (2026) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
@@ -570,7 +570,7 @@
     {
       "id": "bernoulli-2026-0049",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1_5053400869127587101",
+      "titulo": "Material de estudo do simulado Bernoulli nº 7 (2022)",
       "tipo": "Material de apoio",
       "ano": 2022,
       "extensao": "PDF",
@@ -581,8 +581,8 @@
     {
       "id": "bernoulli-2026-0050",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3º bernoulli 2024 d2 -",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 3 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 2564979,
@@ -592,8 +592,8 @@
     {
       "id": "bernoulli-2026-0051",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1° Bernoulli 2024 d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 1 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 3316146,
@@ -603,7 +603,7 @@
     {
       "id": "bernoulli-2026-0052",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito bernou dia 02 - simu 01_2023",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -614,7 +614,7 @@
     {
       "id": "bernoulli-2026-0053",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 3 dia 2",
+      "titulo": "Gabarito do simulado Bernoulli nº 3 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -625,7 +625,7 @@
     {
       "id": "bernoulli-2026-0054",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernou dia 01 - simu 01_2023",
+      "titulo": "Simulado Bernoulli nº 1 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -636,8 +636,8 @@
     {
       "id": "bernoulli-2026-0055",
       "colecaoId": "bernoulli-2026",
-      "titulo": "6 Bernoulli - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 6 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3726489,
@@ -647,8 +647,8 @@
     {
       "id": "bernoulli-2026-0056",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1 - Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 1 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2325656,
@@ -658,7 +658,7 @@
     {
       "id": "bernoulli-2026-0057",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito 7 d1",
+      "titulo": "Gabarito do simulado Bernoulli nº 7 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -669,7 +669,7 @@
     {
       "id": "bernoulli-2026-0058",
       "colecaoId": "bernoulli-2026",
-      "titulo": "7 Simu dia 2(1)",
+      "titulo": "Simulado Bernoulli nº 7 (2021) — 2º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -680,8 +680,8 @@
     {
       "id": "bernoulli-2026-0059",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1º bernoulli 2025 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 1 (2025) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 4801807,
@@ -691,8 +691,8 @@
     {
       "id": "bernoulli-2026-0060",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernoulli 7 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 7 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 4504220,
@@ -702,7 +702,7 @@
     {
       "id": "bernoulli-2026-0061",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernoulli-0-enem+",
+      "titulo": "Material de estudo do simulado Bernoulli nº 0 (2025)",
       "tipo": "Material de apoio",
       "ano": 2025,
       "extensao": "PDF",
@@ -713,7 +713,7 @@
     {
       "id": "bernoulli-2026-0062",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 2 dia",
+      "titulo": "Gabarito do simulado extra Bernoulli (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -724,8 +724,8 @@
     {
       "id": "bernoulli-2026-0063",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3 - Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 3 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2521749,
@@ -735,7 +735,7 @@
     {
       "id": "bernoulli-2026-0064",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1_5030916041023160985",
+      "titulo": "Material de estudo do simulado Bernoulli nº 4 (2022)",
       "tipo": "Material de apoio",
       "ano": 2022,
       "extensao": "PDF",
@@ -746,7 +746,7 @@
     {
       "id": "bernoulli-2026-0065",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 bernoulli 1 2024",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -757,7 +757,7 @@
     {
       "id": "bernoulli-2026-0066",
       "colecaoId": "bernoulli-2026",
-      "titulo": "[Gabarito dia 2] bernoulli zero 2023",
+      "titulo": "Gabarito do simulado Bernoulli nº 0 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -768,7 +768,7 @@
     {
       "id": "bernoulli-2026-0067",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2 bernoulli 2024",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -779,8 +779,8 @@
     {
       "id": "bernoulli-2026-0068",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab1",
-      "tipo": "Material de apoio",
+      "titulo": "Gabarito do simulado Bernoulli nº 5 (2023) — 1º dia",
+      "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 4052806,
@@ -790,8 +790,8 @@
     {
       "id": "bernoulli-2026-0069",
       "colecaoId": "bernoulli-2026",
-      "titulo": "5 Bernouli - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 5 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3661851,
@@ -801,7 +801,7 @@
     {
       "id": "bernoulli-2026-0070",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 3º bernoulli d1",
+      "titulo": "Gabarito do simulado Bernoulli nº 3 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -812,7 +812,7 @@
     {
       "id": "bernoulli-2026-0071",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernoulli2024zero",
+      "titulo": "Material de estudo do simulado Bernoulli nº 0 (2024) — arquivo 1",
       "tipo": "Material de apoio",
       "ano": 2024,
       "extensao": "PDF",
@@ -823,7 +823,7 @@
     {
       "id": "bernoulli-2026-0072",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2- 3º bernou",
+      "titulo": "Gabarito do simulado Bernoulli nº 3 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -834,8 +834,8 @@
     {
       "id": "bernoulli-2026-0073",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Extra d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado extra Bernoulli (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2740533,
@@ -845,7 +845,7 @@
     {
       "id": "bernoulli-2026-0074",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 bernoulli 7",
+      "titulo": "Gabarito do simulado Bernoulli nº 7 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -856,7 +856,7 @@
     {
       "id": "bernoulli-2026-0075",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Ciclo 10 - bernouli 6 - prova 1-compactado",
+      "titulo": "Simulado Bernoulli nº 6 (2024) — prova 1",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -867,8 +867,8 @@
     {
       "id": "bernoulli-2026-0076",
       "colecaoId": "bernoulli-2026",
-      "titulo": "4º bernoulli 2024 d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 3844014,
@@ -878,7 +878,7 @@
     {
       "id": "bernoulli-2026-0077",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 4º bernoulli d1",
+      "titulo": "Gabarito do simulado Bernoulli nº 4 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -889,7 +889,7 @@
     {
       "id": "bernoulli-2026-0078",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernouli 6 - prova 2-compactado",
+      "titulo": "Simulado Bernoulli nº 6 (2024) — prova 2",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -900,7 +900,7 @@
     {
       "id": "bernoulli-2026-0079",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 3 dia 1",
+      "titulo": "Gabarito do simulado Bernoulli nº 3 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -911,8 +911,8 @@
     {
       "id": "bernoulli-2026-0080",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernoulli 7 - dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 7 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 3972629,
@@ -922,7 +922,7 @@
     {
       "id": "bernoulli-2026-0081",
       "colecaoId": "bernoulli-2026",
-      "titulo": "2- Gab 1",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -933,7 +933,7 @@
     {
       "id": "bernoulli-2026-0082",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 0 - 2º dia",
+      "titulo": "Simulado Bernoulli nº 0 (2025) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
@@ -944,7 +944,7 @@
     {
       "id": "bernoulli-2026-0083",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2 bernoulli 1 2024",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -955,8 +955,8 @@
     {
       "id": "bernoulli-2026-0084",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Extra d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado extra Bernoulli (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2355297,
@@ -966,8 +966,8 @@
     {
       "id": "bernoulli-2026-0085",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3 - Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 3 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3457488,
@@ -977,7 +977,7 @@
     {
       "id": "bernoulli-2026-0086",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 1- dia 1",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -988,8 +988,8 @@
     {
       "id": "bernoulli-2026-0087",
       "colecaoId": "bernoulli-2026",
-      "titulo": "2 - Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 2 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2255550,
@@ -999,7 +999,7 @@
     {
       "id": "bernoulli-2026-0088",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2",
+      "titulo": "Gabarito do simulado Bernoulli nº 8 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -1010,7 +1010,7 @@
     {
       "id": "bernoulli-2026-0089",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 - 6 bernoulli",
+      "titulo": "Gabarito do simulado Bernoulli nº 6 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1021,7 +1021,7 @@
     {
       "id": "bernoulli-2026-0090",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 1 - dia 2",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1032,8 +1032,8 @@
     {
       "id": "bernoulli-2026-0091",
       "colecaoId": "bernoulli-2026",
-      "titulo": "3º bernoulli 2024 d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 3 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 4977907,
@@ -1043,7 +1043,7 @@
     {
       "id": "bernoulli-2026-0092",
       "colecaoId": "bernoulli-2026",
-      "titulo": "C.extra_p1_oti",
+      "titulo": "Material de estudo do simulado extra Bernoulli (2023) — arquivo 2",
       "tipo": "Material de apoio",
       "ano": 2023,
       "extensao": "PDF",
@@ -1054,8 +1054,8 @@
     {
       "id": "bernoulli-2026-0093",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1 - Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 1 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2713117,
@@ -1065,8 +1065,8 @@
     {
       "id": "bernoulli-2026-0094",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simulado enem 00 - prova i (resoluções comentadas)",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Bernoulli nº 0 (2024)",
+      "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 6238698,
@@ -1076,7 +1076,7 @@
     {
       "id": "bernoulli-2026-0095",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simu 6 dia 2",
+      "titulo": "Simulado Bernoulli nº 6 (2021) — 2º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -1087,8 +1087,8 @@
     {
       "id": "bernoulli-2026-0096",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 02 - 2026 - respostas dia 01 - b",
-      "tipo": "Prova ou simulado",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2026) — 1º dia",
+      "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
       "tamanhoBytes": 4093059,
@@ -1098,7 +1098,7 @@
     {
       "id": "bernoulli-2026-0097",
       "colecaoId": "bernoulli-2026",
-      "titulo": "2- Gab 2",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1109,7 +1109,7 @@
     {
       "id": "bernoulli-2026-0098",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 02 - 2026 - dia 02- b",
+      "titulo": "Simulado Bernoulli nº 2 (2026) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -1120,8 +1120,8 @@
     {
       "id": "bernoulli-2026-0099",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D2 bernoulli 7",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 7 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 6235772,
@@ -1131,7 +1131,7 @@
     {
       "id": "bernoulli-2026-0100",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 bernoulli 2024 -",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1142,8 +1142,8 @@
     {
       "id": "bernoulli-2026-0101",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1° Bernoulli 2024 d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 1 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 3130437,
@@ -1153,7 +1153,7 @@
     {
       "id": "bernoulli-2026-0102",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab simu extra bernoulli d2",
+      "titulo": "Gabarito do simulado extra Bernoulli (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1164,7 +1164,7 @@
     {
       "id": "bernoulli-2026-0103",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D2_se2023_v05_book_provaii",
+      "titulo": "Simulado Bernoulli nº 5 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -1175,7 +1175,7 @@
     {
       "id": "bernoulli-2026-0104",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2- bernoulli 5",
+      "titulo": "Gabarito do simulado Bernoulli nº 5 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1186,8 +1186,8 @@
     {
       "id": "bernoulli-2026-0105",
       "colecaoId": "bernoulli-2026",
-      "titulo": "6 Bernoulli - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 6 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3330140,
@@ -1197,7 +1197,7 @@
     {
       "id": "bernoulli-2026-0106",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 3º bernoulli d2",
+      "titulo": "Gabarito do simulado Bernoulli nº 3 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1208,7 +1208,7 @@
     {
       "id": "bernoulli-2026-0107",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1",
+      "titulo": "Gabarito do simulado Bernoulli nº 8 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -1219,7 +1219,7 @@
     {
       "id": "bernoulli-2026-0108",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab extra 1",
+      "titulo": "Gabarito do simulado extra Bernoulli (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1230,8 +1230,8 @@
     {
       "id": "bernoulli-2026-0109",
       "colecaoId": "bernoulli-2026",
-      "titulo": "4º bernoulli 2024 d2 -",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 3813340,
@@ -1241,7 +1241,7 @@
     {
       "id": "bernoulli-2026-0110",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 - 3º bernou",
+      "titulo": "Gabarito do simulado Bernoulli nº 3 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -1252,7 +1252,7 @@
     {
       "id": "bernoulli-2026-0111",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Simulado bernoulli 5 dia 2",
+      "titulo": "Simulado Bernoulli nº 5 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -1263,8 +1263,8 @@
     {
       "id": "bernoulli-2026-0112",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1º bernoulli 2025 - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 1 (2025) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 5290387,
@@ -1274,7 +1274,7 @@
     {
       "id": "bernoulli-2026-0113",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 01 - 2026 - dia 02 - b",
+      "titulo": "Simulado Bernoulli nº 1 (2026) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -1285,8 +1285,8 @@
     {
       "id": "bernoulli-2026-0114",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D1 bernoulli 7",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 7 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3722951,
@@ -1296,8 +1296,8 @@
     {
       "id": "bernoulli-2026-0115",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Extra bernoulli 2024 d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado extra Bernoulli (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 3671927,
@@ -1307,7 +1307,7 @@
     {
       "id": "bernoulli-2026-0116",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 00 - dia 02 - gabarito comentado",
+      "titulo": "Gabarito comentado do simulado Bernoulli nº 0 (2026) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
@@ -1318,8 +1318,8 @@
     {
       "id": "bernoulli-2026-0117",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D2 - 2º bernoulli",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 2 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 3996027,
@@ -1329,7 +1329,7 @@
     {
       "id": "bernoulli-2026-0118",
       "colecaoId": "bernoulli-2026",
-      "titulo": "0º bernoulli 2025 - gab d1 +",
+      "titulo": "Gabarito do simulado Bernoulli nº 0 (2025) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -1340,7 +1340,7 @@
     {
       "id": "bernoulli-2026-0119",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 02 - 2026 - dia 01 - b",
+      "titulo": "Simulado Bernoulli nº 2 (2026) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -1351,7 +1351,7 @@
     {
       "id": "bernoulli-2026-0120",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito d2",
+      "titulo": "Gabarito do simulado Bernoulli nº 7 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1362,7 +1362,7 @@
     {
       "id": "bernoulli-2026-0121",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito bernoulli 5 dia 1",
+      "titulo": "Gabarito do simulado Bernoulli nº 5 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1373,8 +1373,8 @@
     {
       "id": "bernoulli-2026-0122",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernolli 4 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3187610,
@@ -1384,7 +1384,7 @@
     {
       "id": "bernoulli-2026-0123",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito bernoulli 5 dia 2",
+      "titulo": "Gabarito do simulado Bernoulli nº 5 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1395,7 +1395,7 @@
     {
       "id": "bernoulli-2026-0124",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito 0 - 2º dia",
+      "titulo": "Gabarito do simulado Bernoulli nº 0 (2025) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -1406,7 +1406,7 @@
     {
       "id": "bernoulli-2026-0125",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab bernolli 4 - d2",
+      "titulo": "Gabarito do simulado Bernoulli nº 4 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1417,7 +1417,7 @@
     {
       "id": "bernoulli-2026-0126",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab extra 2",
+      "titulo": "Gabarito do simulado extra Bernoulli (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1428,7 +1428,7 @@
     {
       "id": "bernoulli-2026-0127",
       "colecaoId": "bernoulli-2026",
-      "titulo": "[Gabarito dia 1] bernoulli zero 2023",
+      "titulo": "Gabarito do simulado Bernoulli nº 0 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -1439,7 +1439,7 @@
     {
       "id": "bernoulli-2026-0128",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d1 - 5 bernoulli",
+      "titulo": "Gabarito do simulado Bernoulli nº 5 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -1450,7 +1450,7 @@
     {
       "id": "bernoulli-2026-0129",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 01 - 2026 - dia 01 - b",
+      "titulo": "Simulado Bernoulli nº 1 (2026) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -1461,8 +1461,8 @@
     {
       "id": "bernoulli-2026-0130",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernolli 4 - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3248829,
@@ -1472,8 +1472,8 @@
     {
       "id": "bernoulli-2026-0131",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernoulli zero dia 2 - 2024",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 0 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 7358594,
@@ -1483,7 +1483,7 @@
     {
       "id": "bernoulli-2026-0132",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 01 - 2026 - dia 01 - b - gabarito comentado",
+      "titulo": "Gabarito comentado do simulado Bernoulli nº 1 (2026) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
@@ -1494,7 +1494,7 @@
     {
       "id": "bernoulli-2026-0133",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito 9793 docente dia 2",
+      "titulo": "Gabarito do simulado Bernoulli nº 6 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1505,7 +1505,7 @@
     {
       "id": "bernoulli-2026-0134",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab d2 - 4º bernou",
+      "titulo": "Gabarito do simulado Bernoulli nº 4 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -1516,7 +1516,7 @@
     {
       "id": "bernoulli-2026-0135",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab 4º bernoulli d2 -",
+      "titulo": "Gabarito do simulado Bernoulli nº 4 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1527,7 +1527,7 @@
     {
       "id": "bernoulli-2026-0136",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 01 - 2026 - dia 02 - b - gabarito comentado",
+      "titulo": "Gabarito comentado do simulado Bernoulli nº 1 (2026) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
@@ -1538,8 +1538,8 @@
     {
       "id": "bernoulli-2026-0137",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 02 - 2026 - respostas dia 02 - b",
-      "tipo": "Prova ou simulado",
+      "titulo": "Gabarito do simulado Bernoulli nº 2 (2026) — 2º dia",
+      "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
       "tamanhoBytes": 8920503,
@@ -1549,8 +1549,8 @@
     {
       "id": "bernoulli-2026-0138",
       "colecaoId": "bernoulli-2026",
-      "titulo": "D2 - 4º bernoulii",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 4 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 5895731,
@@ -1560,7 +1560,7 @@
     {
       "id": "bernoulli-2026-0139",
       "colecaoId": "bernoulli-2026",
-      "titulo": "1º bernoulli 2025 - gab d2",
+      "titulo": "Gabarito do simulado Bernoulli nº 1 (2025) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -1571,7 +1571,7 @@
     {
       "id": "bernoulli-2026-0140",
       "colecaoId": "bernoulli-2026",
-      "titulo": "33B7f9cc7b618c9064410d80a5ee904309a1ccd5 (1)",
+      "titulo": "Material de estudo do simulado Bernoulli nº 0 (2024) — arquivo 2",
       "tipo": "Material de apoio",
       "ano": 2024,
       "extensao": "PDF",
@@ -1582,7 +1582,7 @@
     {
       "id": "bernoulli-2026-0141",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova - 8° simulado enem bernoulli, dia 02",
+      "titulo": "Simulado Bernoulli nº 8 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -1593,7 +1593,7 @@
     {
       "id": "bernoulli-2026-0142",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gabarito - 8° simulado enem bernoulli, dia 02",
+      "titulo": "Gabarito do simulado Bernoulli nº 8 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1604,7 +1604,7 @@
     {
       "id": "bernoulli-2026-0143",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Prova 00 - dia 02",
+      "titulo": "Simulado Bernoulli nº 0 (2026) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -1615,8 +1615,8 @@
     {
       "id": "bernoulli-2026-0144",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Bernoulli 5 dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Bernoulli nº 5 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 30984592,
@@ -1626,7 +1626,7 @@
     {
       "id": "bernoulli-2026-0145",
       "colecaoId": "bernoulli-2026",
-      "titulo": "8° Simulado enem bernoulli- dia 01",
+      "titulo": "Simulado Bernoulli nº 8 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -1637,8 +1637,8 @@
     {
       "id": "bernoulli-2026-0146",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Extra bernoulli 2024 d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado extra Bernoulli (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 2457198,
@@ -1648,7 +1648,7 @@
     {
       "id": "bernoulli-2026-0147",
       "colecaoId": "bernoulli-2026",
-      "titulo": "Gab simu extra bernoulli d1",
+      "titulo": "Gabarito do simulado extra Bernoulli (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -1659,7 +1659,7 @@
     {
       "id": "hexag-2017-2026-0001",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2017) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1670,7 +1670,7 @@
     {
       "id": "hexag-2017-2026-0002",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2017) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1681,7 +1681,7 @@
     {
       "id": "hexag-2017-2026-0003",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 2 (2017) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1692,7 +1692,7 @@
     {
       "id": "hexag-2017-2026-0004",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2017) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1703,7 +1703,7 @@
     {
       "id": "hexag-2017-2026-0005",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 1 (2017) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1714,7 +1714,7 @@
     {
       "id": "hexag-2017-2026-0006",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2017) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1725,7 +1725,7 @@
     {
       "id": "hexag-2017-2026-0007",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 2 (2017) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1736,7 +1736,7 @@
     {
       "id": "hexag-2017-2026-0008",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 4 (2017) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1747,7 +1747,7 @@
     {
       "id": "hexag-2017-2026-0009",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2017) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1758,7 +1758,7 @@
     {
       "id": "hexag-2017-2026-0010",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 1 (2017) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1769,7 +1769,7 @@
     {
       "id": "hexag-2017-2026-0011",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 4 (2017) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2017,
       "extensao": "PDF",
@@ -1780,7 +1780,7 @@
     {
       "id": "hexag-2017-2026-0012",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 4 (2017) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1791,7 +1791,7 @@
     {
       "id": "hexag-2017-2026-0013",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2017) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1802,7 +1802,7 @@
     {
       "id": "hexag-2017-2026-0014",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 4 (2017) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1813,7 +1813,7 @@
     {
       "id": "hexag-2017-2026-0015",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2017) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1824,7 +1824,7 @@
     {
       "id": "hexag-2017-2026-0016",
       "colecaoId": "hexag-2017-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2017) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2017,
       "extensao": "PDF",
@@ -1835,7 +1835,7 @@
     {
       "id": "hexag-2018-2026-0001",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2018) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -1846,7 +1846,7 @@
     {
       "id": "hexag-2018-2026-0002",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -1857,7 +1857,7 @@
     {
       "id": "hexag-2018-2026-0003",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -1868,7 +1868,7 @@
     {
       "id": "hexag-2018-2026-0004",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -1879,7 +1879,7 @@
     {
       "id": "hexag-2018-2026-0005",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 2 (2018) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -1890,7 +1890,7 @@
     {
       "id": "hexag-2018-2026-0006",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2018) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -1901,7 +1901,7 @@
     {
       "id": "hexag-2018-2026-0007",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -1912,7 +1912,7 @@
     {
       "id": "hexag-2018-2026-0008",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 1 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -1923,7 +1923,7 @@
     {
       "id": "hexag-2018-2026-0009",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2018) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -1934,7 +1934,7 @@
     {
       "id": "hexag-2018-2026-0010",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 2 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -1945,7 +1945,7 @@
     {
       "id": "hexag-2018-2026-0011",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2018) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -1956,7 +1956,7 @@
     {
       "id": "hexag-2018-2026-0012",
       "colecaoId": "hexag-2018-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 1 (2018) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -1967,7 +1967,7 @@
     {
       "id": "hexag-2019-2026-0001",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 4 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -1978,7 +1978,7 @@
     {
       "id": "hexag-2019-2026-0002",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -1989,7 +1989,7 @@
     {
       "id": "hexag-2019-2026-0003",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 5 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2000,7 +2000,7 @@
     {
       "id": "hexag-2019-2026-0004",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2011,7 +2011,7 @@
     {
       "id": "hexag-2019-2026-0005",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2022,7 +2022,7 @@
     {
       "id": "hexag-2019-2026-0006",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2033,7 +2033,7 @@
     {
       "id": "hexag-2019-2026-0007",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 4 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2044,7 +2044,7 @@
     {
       "id": "hexag-2019-2026-0008",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 2 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2055,7 +2055,7 @@
     {
       "id": "hexag-2019-2026-0009",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 5 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2066,7 +2066,7 @@
     {
       "id": "hexag-2019-2026-0010",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2077,7 +2077,7 @@
     {
       "id": "hexag-2019-2026-0011",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 6 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2088,7 +2088,7 @@
     {
       "id": "hexag-2019-2026-0012",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 6 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2099,7 +2099,7 @@
     {
       "id": "hexag-2019-2026-0013",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 1 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2110,7 +2110,7 @@
     {
       "id": "hexag-2019-2026-0014",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2121,7 +2121,7 @@
     {
       "id": "hexag-2019-2026-0015",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2132,7 +2132,7 @@
     {
       "id": "hexag-2019-2026-0016",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 5 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2143,7 +2143,7 @@
     {
       "id": "hexag-2019-2026-0017",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 2 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2154,7 +2154,7 @@
     {
       "id": "hexag-2019-2026-0018",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2165,7 +2165,7 @@
     {
       "id": "hexag-2019-2026-0019",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Provas",
+      "titulo": "Simulado Hexag nº 4 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2176,7 +2176,7 @@
     {
       "id": "hexag-2019-2026-0020",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 1 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2187,7 +2187,7 @@
     {
       "id": "hexag-2019-2026-0021",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 5 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2198,7 +2198,7 @@
     {
       "id": "hexag-2019-2026-0022",
       "colecaoId": "hexag-2019-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 4 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -2209,7 +2209,7 @@
     {
       "id": "hexag-2020-2026-0001",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 4 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2220,7 +2220,7 @@
     {
       "id": "hexag-2020-2026-0002",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 5 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2231,7 +2231,7 @@
     {
       "id": "hexag-2020-2026-0003",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "1- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2242,7 +2242,7 @@
     {
       "id": "hexag-2020-2026-0004",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "2- Gabarito segundo dia 2",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2253,7 +2253,7 @@
     {
       "id": "hexag-2020-2026-0005",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "2-Gabarito primeiro dia 2",
+      "titulo": "Gabarito do simulado Hexag nº 2 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2264,7 +2264,7 @@
     {
       "id": "hexag-2020-2026-0006",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2275,7 +2275,7 @@
     {
       "id": "hexag-2020-2026-0007",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 4 (2020)",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2286,7 +2286,7 @@
     {
       "id": "hexag-2020-2026-0008",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 5 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2297,7 +2297,7 @@
     {
       "id": "hexag-2020-2026-0009",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "1- Segundo dia",
+      "titulo": "Simulado Hexag nº 1 (2020) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2308,7 +2308,7 @@
     {
       "id": "hexag-2020-2026-0010",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 4 (2020)",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2319,8 +2319,8 @@
     {
       "id": "hexag-2020-2026-0011",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "2-Primeiro dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Hexag nº 2 (2020) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 4761750,
@@ -2330,7 +2330,7 @@
     {
       "id": "hexag-2020-2026-0012",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "1- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Hexag nº 1 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2341,8 +2341,8 @@
     {
       "id": "hexag-2020-2026-0013",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "2- Segundo dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Hexag nº 2 (2020) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 2699190,
@@ -2352,7 +2352,7 @@
     {
       "id": "hexag-2020-2026-0014",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 5 (2020) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2363,7 +2363,7 @@
     {
       "id": "hexag-2020-2026-0015",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Gabarito",
+      "titulo": "Gabarito do simulado Hexag nº 3 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2374,7 +2374,7 @@
     {
       "id": "hexag-2020-2026-0016",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 4 (2020) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2385,7 +2385,7 @@
     {
       "id": "hexag-2020-2026-0017",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2020) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2396,7 +2396,7 @@
     {
       "id": "hexag-2020-2026-0018",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "1-Primeiro dia",
+      "titulo": "Simulado Hexag nº 1 (2020) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2407,7 +2407,7 @@
     {
       "id": "hexag-2020-2026-0019",
       "colecaoId": "hexag-2020-2026",
-      "titulo": "Prova",
+      "titulo": "Simulado Hexag nº 3 (2020) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2418,8 +2418,8 @@
     {
       "id": "hexag-medicina-2026-0001",
       "colecaoId": "hexag-medicina-2026",
-      "titulo": "Resoluções_fechada_md",
-      "tipo": "Material de apoio",
+      "titulo": "Resolução Unifesp (Hexag Medicina) — 1º dia",
+      "tipo": "Resolução",
       "ano": null,
       "extensao": "PDF",
       "tamanhoBytes": 942356,
@@ -2429,8 +2429,8 @@
     {
       "id": "hexag-medicina-2026-0002",
       "colecaoId": "hexag-medicina-2026",
-      "titulo": "Comentários da prova 1_md",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução Famema (Hexag Medicina) — 1ª prova",
+      "tipo": "Resolução",
       "ano": null,
       "extensao": "PDF",
       "tamanhoBytes": 3796405,
@@ -2440,7 +2440,7 @@
     {
       "id": "hexag-medicina-2026-0003",
       "colecaoId": "hexag-medicina-2026",
-      "titulo": "Simulado_famema_2ªprova-hexagmedicina_md",
+      "titulo": "Simulado Famema (Hexag Medicina) — 2ª prova",
       "tipo": "Prova ou simulado",
       "ano": null,
       "extensao": "PDF",
@@ -2451,8 +2451,8 @@
     {
       "id": "hexag-medicina-2026-0004",
       "colecaoId": "hexag-medicina-2026",
-      "titulo": "Comentários da prova 2_md",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução Famema (Hexag Medicina) — 2ª prova",
+      "tipo": "Resolução",
       "ano": null,
       "extensao": "PDF",
       "tamanhoBytes": 11101974,
@@ -2462,7 +2462,7 @@
     {
       "id": "hexag-medicina-2026-0005",
       "colecaoId": "hexag-medicina-2026",
-      "titulo": "Simuladofamema_1ºprova_hexagmedicina_md",
+      "titulo": "Simulado Famema (Hexag Medicina) — 1ª prova",
       "tipo": "Prova ou simulado",
       "ano": null,
       "extensao": "PDF",
@@ -2473,8 +2473,8 @@
     {
       "id": "hexag-medicina-2026-0006",
       "colecaoId": "hexag-medicina-2026",
-      "titulo": "Resoluções_unicamp_1ºfase_md",
-      "tipo": "Material de apoio",
+      "titulo": "Resolução Unicamp (Hexag Medicina) — 1ª fase",
+      "tipo": "Resolução",
       "ano": null,
       "extensao": "PDF",
       "tamanhoBytes": 18724136,
@@ -2484,7 +2484,7 @@
     {
       "id": "poliedro-2026-0001",
       "colecaoId": "poliedro-2026",
-      "titulo": "Modelo gab primeiro dia",
+      "titulo": "Modelo de gabarito Poliedro (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -2495,7 +2495,7 @@
     {
       "id": "poliedro-2026-0002",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2020) — 1º dia — arquivo 1",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2506,7 +2506,7 @@
     {
       "id": "poliedro-2026-0003",
       "colecaoId": "poliedro-2026",
-      "titulo": "Modelo gab segundo dia",
+      "titulo": "Modelo de gabarito Poliedro (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -2517,7 +2517,7 @@
     {
       "id": "poliedro-2026-0004",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -2528,7 +2528,7 @@
     {
       "id": "poliedro-2026-0005",
       "colecaoId": "poliedro-2026",
-      "titulo": "Modelo folha de redação",
+      "titulo": "Modelo de folha de redação Poliedro (2022)",
       "tipo": "Redação",
       "ano": 2022,
       "extensao": "PDF",
@@ -2539,7 +2539,7 @@
     {
       "id": "poliedro-2026-0006",
       "colecaoId": "poliedro-2026",
-      "titulo": "1-Gabarito",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2019)",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2550,8 +2550,8 @@
     {
       "id": "poliedro-2026-0007",
       "colecaoId": "poliedro-2026",
-      "titulo": "Gabarito -2º poliedro enem 2022 - 1º dia - resolução",
-      "tipo": "Gabarito",
+      "titulo": "Resolução do simulado Poliedro nº 2 (2022) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 1051418,
@@ -2561,7 +2561,7 @@
     {
       "id": "poliedro-2026-0008",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -2572,7 +2572,7 @@
     {
       "id": "poliedro-2026-0009",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro 2024 - gab d2",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -2583,7 +2583,7 @@
     {
       "id": "poliedro-2026-0010",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro 2024 - gab d1",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -2594,7 +2594,7 @@
     {
       "id": "poliedro-2026-0011",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Gabarito",
+      "titulo": "Gabarito do simulado Poliedro nº 3 (2019)",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2605,7 +2605,7 @@
     {
       "id": "poliedro-2026-0012",
       "colecaoId": "poliedro-2026",
-      "titulo": "5º poliedro 2024 - resolução d1",
+      "titulo": "Resolução do simulado Poliedro nº 5 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -2616,7 +2616,7 @@
     {
       "id": "poliedro-2026-0013",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º poliedro 2024 - resolução d1",
+      "titulo": "Resolução do simulado Poliedro nº 3 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -2627,7 +2627,7 @@
     {
       "id": "poliedro-2026-0014",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -2638,7 +2638,7 @@
     {
       "id": "poliedro-2026-0015",
       "colecaoId": "poliedro-2026",
-      "titulo": "4º poliedro 2024 - resolução d1",
+      "titulo": "Resolução do simulado Poliedro nº 4 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -2649,8 +2649,8 @@
     {
       "id": "poliedro-2026-0016",
       "colecaoId": "poliedro-2026",
-      "titulo": "[Gab] 2ºsimu poli d1_2025",
-      "tipo": "Prova ou simulado",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2025) — 1º dia",
+      "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 2065107,
@@ -2660,7 +2660,7 @@
     {
       "id": "poliedro-2026-0017",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º_poliedro_enem_2023_-_1º_dia_-_resolução",
+      "titulo": "Resolução do simulado Poliedro nº 3 (2023) — 1º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -2671,8 +2671,8 @@
     {
       "id": "poliedro-2026-0018",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_simulado_enem_2025_-_1º_dia_-_resolução",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Poliedro nº 1 (2025) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 2004278,
@@ -2682,7 +2682,7 @@
     {
       "id": "poliedro-2026-0019",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Segundo dia",
+      "titulo": "Simulado Poliedro nº 1 (2018) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -2693,7 +2693,7 @@
     {
       "id": "poliedro-2026-0020",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_poliedro_enem_2023_-_1º_dia_-_resolução",
+      "titulo": "Resolução do simulado Poliedro nº 1 (2023) — 1º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -2704,7 +2704,7 @@
     {
       "id": "poliedro-2026-0021",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro enem 2022 - 2º dia",
+      "titulo": "Simulado Poliedro nº 1 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -2715,7 +2715,7 @@
     {
       "id": "poliedro-2026-0022",
       "colecaoId": "poliedro-2026",
-      "titulo": "4-Segundo dia",
+      "titulo": "Simulado Poliedro nº 4 (2018) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -2726,7 +2726,7 @@
     {
       "id": "poliedro-2026-0023",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 3 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -2737,7 +2737,7 @@
     {
       "id": "poliedro-2026-0024",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito primeiro dia(1)",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2020) — 1º dia — arquivo 2",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -2748,7 +2748,7 @@
     {
       "id": "poliedro-2026-0025",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Primeiro dia",
+      "titulo": "Simulado Poliedro nº 1 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -2759,7 +2759,7 @@
     {
       "id": "poliedro-2026-0026",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_poliedro_enem_2023_-_1º_dia_-_prova",
+      "titulo": "Simulado Poliedro nº 1 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -2770,7 +2770,7 @@
     {
       "id": "poliedro-2026-0027",
       "colecaoId": "poliedro-2026",
-      "titulo": "2-Primeiro dia",
+      "titulo": "Simulado Poliedro nº 2 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -2781,7 +2781,7 @@
     {
       "id": "poliedro-2026-0028",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -2792,7 +2792,7 @@
     {
       "id": "poliedro-2026-0029",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º poliedro enem 2023 - 1º dia - prova",
+      "titulo": "Simulado Poliedro nº 3 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -2803,7 +2803,7 @@
     {
       "id": "poliedro-2026-0030",
       "colecaoId": "poliedro-2026",
-      "titulo": "4- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 4 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -2814,7 +2814,7 @@
     {
       "id": "poliedro-2026-0031",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Segundo dia",
+      "titulo": "Simulado Poliedro nº 1 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -2825,7 +2825,7 @@
     {
       "id": "poliedro-2026-0032",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -2836,7 +2836,7 @@
     {
       "id": "poliedro-2026-0033",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro 2024 - prova d2",
+      "titulo": "Simulado Poliedro nº 1 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -2847,7 +2847,7 @@
     {
       "id": "poliedro-2026-0034",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Primeiro dia",
+      "titulo": "Simulado Poliedro nº 3 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -2858,7 +2858,7 @@
     {
       "id": "poliedro-2026-0035",
       "colecaoId": "poliedro-2026",
-      "titulo": "4º poliedro 2024 - prova d1",
+      "titulo": "Simulado Poliedro nº 4 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -2869,7 +2869,7 @@
     {
       "id": "poliedro-2026-0036",
       "colecaoId": "poliedro-2026",
-      "titulo": "4- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 4 (2018) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -2880,7 +2880,7 @@
     {
       "id": "poliedro-2026-0037",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Segundo dia",
+      "titulo": "Simulado Poliedro nº 1 (2020) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -2891,7 +2891,7 @@
     {
       "id": "poliedro-2026-0038",
       "colecaoId": "poliedro-2026",
-      "titulo": "5º poliedro 2024 - prova d1",
+      "titulo": "Simulado Poliedro nº 5 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -2902,7 +2902,7 @@
     {
       "id": "poliedro-2026-0039",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Segundo dia",
+      "titulo": "Simulado Poliedro nº 3 (2018) — 2º dia — arquivo 1",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -2913,7 +2913,7 @@
     {
       "id": "poliedro-2026-0040",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Segundo dia",
+      "titulo": "Simulado Poliedro nº 2 (2018) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -2924,7 +2924,7 @@
     {
       "id": "poliedro-2026-0041",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_simulado_enem_2025_-_1º_dia_-_prova",
+      "titulo": "Simulado Poliedro nº 1 (2025) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
@@ -2935,7 +2935,7 @@
     {
       "id": "poliedro-2026-0042",
       "colecaoId": "poliedro-2026",
-      "titulo": "Gabarito dia1 - segundo poliedro enem",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -2946,7 +2946,7 @@
     {
       "id": "poliedro-2026-0043",
       "colecaoId": "poliedro-2026",
-      "titulo": "4- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 4 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -2957,8 +2957,8 @@
     {
       "id": "poliedro-2026-0044",
       "colecaoId": "poliedro-2026",
-      "titulo": "Gabarito 2º poliedro enem 2022 - 2º dia - resolução",
-      "tipo": "Gabarito",
+      "titulo": "Resolução do simulado Poliedro nº 2 (2022) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2617618,
@@ -2968,7 +2968,7 @@
     {
       "id": "poliedro-2026-0045",
       "colecaoId": "poliedro-2026",
-      "titulo": "4º poliedro 2024 - resolução d2",
+      "titulo": "Resolução do simulado Poliedro nº 4 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -2979,7 +2979,7 @@
     {
       "id": "poliedro-2026-0046",
       "colecaoId": "poliedro-2026",
-      "titulo": "1-Primeiro dia",
+      "titulo": "Simulado Poliedro nº 1 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -2990,7 +2990,7 @@
     {
       "id": "poliedro-2026-0047",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Segundo dia",
+      "titulo": "Simulado Poliedro nº 3 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -3001,7 +3001,7 @@
     {
       "id": "poliedro-2026-0048",
       "colecaoId": "poliedro-2026",
-      "titulo": "2º poliedro enem 2022 - 1º dia - prova",
+      "titulo": "Simulado Poliedro nº 2 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -3012,7 +3012,7 @@
     {
       "id": "poliedro-2026-0049",
       "colecaoId": "poliedro-2026",
-      "titulo": "5º poliedro 2024 - resolução d2",
+      "titulo": "Resolução do simulado Poliedro nº 5 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3023,7 +3023,7 @@
     {
       "id": "poliedro-2026-0050",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2018) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -3034,7 +3034,7 @@
     {
       "id": "poliedro-2026-0051",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Segundo dia",
+      "titulo": "Simulado Poliedro nº 1 (2019) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -3045,7 +3045,7 @@
     {
       "id": "poliedro-2026-0052",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_poliedro_enem_2023_-_2º_dia_-_resolução 2",
+      "titulo": "Resolução do simulado Poliedro nº 1 (2023) — 2º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -3056,8 +3056,8 @@
     {
       "id": "poliedro-2026-0053",
       "colecaoId": "poliedro-2026",
-      "titulo": "[Gab] 2ºsimu poli d2_2025",
-      "tipo": "Prova ou simulado",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2025) — 2º dia",
+      "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 3530507,
@@ -3067,7 +3067,7 @@
     {
       "id": "poliedro-2026-0054",
       "colecaoId": "poliedro-2026",
-      "titulo": "Dia 1 - segundo poliedro",
+      "titulo": "Simulado Poliedro nº 2 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -3078,7 +3078,7 @@
     {
       "id": "poliedro-2026-0055",
       "colecaoId": "poliedro-2026",
-      "titulo": "2º poliedro 2024 - d1 resolução",
+      "titulo": "Resolução do simulado Poliedro nº 2 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3089,7 +3089,7 @@
     {
       "id": "poliedro-2026-0056",
       "colecaoId": "poliedro-2026",
-      "titulo": "[Prova] 2ºsimu poli d2_2025",
+      "titulo": "Simulado Poliedro nº 2 (2025) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
@@ -3100,8 +3100,8 @@
     {
       "id": "poliedro-2026-0057",
       "colecaoId": "poliedro-2026",
-      "titulo": "Poliedro 2025 d2 (2)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Poliedro nº 1 (2025) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 5011467,
@@ -3111,7 +3111,7 @@
     {
       "id": "poliedro-2026-0058",
       "colecaoId": "poliedro-2026",
-      "titulo": "4º poliedro 2024 - prova d2",
+      "titulo": "Simulado Poliedro nº 4 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3122,7 +3122,7 @@
     {
       "id": "poliedro-2026-0059",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro 2024 - d1 resolução",
+      "titulo": "Resolução do simulado Poliedro nº 1 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3133,7 +3133,7 @@
     {
       "id": "poliedro-2026-0060",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro enem 2022 - 1º dia",
+      "titulo": "Simulado Poliedro nº 1 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -3144,7 +3144,7 @@
     {
       "id": "poliedro-2026-0061",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º_poliedro_enem_2023_-_2º_dia_-_resolução",
+      "titulo": "Resolução do simulado Poliedro nº 3 (2023) — 2º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -3155,7 +3155,7 @@
     {
       "id": "poliedro-2026-0062",
       "colecaoId": "poliedro-2026",
-      "titulo": "4 Poliedro dia 02 - resolução",
+      "titulo": "Resolução do simulado Poliedro nº 4 (2023) — 2º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -3166,7 +3166,7 @@
     {
       "id": "poliedro-2026-0063",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Segundo dia",
+      "titulo": "Simulado Poliedro nº 2 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -3177,8 +3177,8 @@
     {
       "id": "poliedro-2026-0064",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_simulado_enem_2025_-_2º_dia_-_resolução",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Poliedro nº 1 (2025) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 3773360,
@@ -3188,7 +3188,7 @@
     {
       "id": "poliedro-2026-0065",
       "colecaoId": "poliedro-2026",
-      "titulo": "[Prova] 2ºsimu poli d1_2025",
+      "titulo": "Simulado Poliedro nº 2 (2025) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
@@ -3199,7 +3199,7 @@
     {
       "id": "poliedro-2026-0066",
       "colecaoId": "poliedro-2026",
-      "titulo": "4-Primeiro dia",
+      "titulo": "Simulado Poliedro nº 4 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -3210,7 +3210,7 @@
     {
       "id": "poliedro-2026-0067",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º poliedro 2024 - prova d1",
+      "titulo": "Simulado Poliedro nº 3 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3221,7 +3221,7 @@
     {
       "id": "poliedro-2026-0068",
       "colecaoId": "poliedro-2026",
-      "titulo": "4º_poliedro - 1º_dia_-_prova",
+      "titulo": "Simulado Poliedro nº 4 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -3232,7 +3232,7 @@
     {
       "id": "poliedro-2026-0069",
       "colecaoId": "poliedro-2026",
-      "titulo": "1-Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -3243,7 +3243,7 @@
     {
       "id": "poliedro-2026-0070",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2018) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -3254,7 +3254,7 @@
     {
       "id": "poliedro-2026-0071",
       "colecaoId": "poliedro-2026",
-      "titulo": "Gabarito 1º poliedro enem 2022 - 2º dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -3265,7 +3265,7 @@
     {
       "id": "poliedro-2026-0072",
       "colecaoId": "poliedro-2026",
-      "titulo": "4 Poliedro dia 01 - resolução.pdf",
+      "titulo": "Resolução do simulado Poliedro nº 4 (2023) — 1º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -3276,7 +3276,7 @@
     {
       "id": "poliedro-2026-0073",
       "colecaoId": "poliedro-2026",
-      "titulo": "3-Primeiro dia",
+      "titulo": "Simulado Poliedro nº 3 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -3287,7 +3287,7 @@
     {
       "id": "poliedro-2026-0074",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro 2024 - prova d1",
+      "titulo": "Simulado Poliedro nº 1 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3298,7 +3298,7 @@
     {
       "id": "poliedro-2026-0075",
       "colecaoId": "poliedro-2026",
-      "titulo": "4º_poliedro - 2º_dia_-_prova",
+      "titulo": "Simulado Poliedro nº 4 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -3309,7 +3309,7 @@
     {
       "id": "poliedro-2026-0076",
       "colecaoId": "poliedro-2026",
-      "titulo": "Dia 2 - segundo poliedro.",
+      "titulo": "Simulado Poliedro nº 2 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -3320,7 +3320,7 @@
     {
       "id": "poliedro-2026-0077",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 3 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -3331,7 +3331,7 @@
     {
       "id": "poliedro-2026-0078",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Primeiro dia",
+      "titulo": "Simulado Poliedro nº 2 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -3342,7 +3342,7 @@
     {
       "id": "poliedro-2026-0079",
       "colecaoId": "poliedro-2026",
-      "titulo": "Gabarito - 1º poliedro enem 2022 - 1º dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -3353,7 +3353,7 @@
     {
       "id": "poliedro-2026-0080",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º poliedro enem 2023 - 2º dia - prova",
+      "titulo": "Simulado Poliedro nº 3 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -3364,7 +3364,7 @@
     {
       "id": "poliedro-2026-0081",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Segundo dia(1)",
+      "titulo": "Simulado Poliedro nº 3 (2018) — 2º dia — arquivo 2",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -3375,7 +3375,7 @@
     {
       "id": "poliedro-2026-0082",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -3386,7 +3386,7 @@
     {
       "id": "poliedro-2026-0083",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º poliedro 2024 - resolução d2",
+      "titulo": "Resolução do simulado Poliedro nº 3 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3397,7 +3397,7 @@
     {
       "id": "poliedro-2026-0084",
       "colecaoId": "poliedro-2026",
-      "titulo": "1-Primeiro dia",
+      "titulo": "Simulado Poliedro nº 1 (2019) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2019,
       "extensao": "PDF",
@@ -3408,7 +3408,7 @@
     {
       "id": "poliedro-2026-0085",
       "colecaoId": "poliedro-2026",
-      "titulo": "2º poliedro 2024 - prova d1",
+      "titulo": "Simulado Poliedro nº 2 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3419,7 +3419,7 @@
     {
       "id": "poliedro-2026-0086",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º_poliedro_enem_2023_-_2º_dia_-_prova",
+      "titulo": "Simulado Poliedro nº 1 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -3430,7 +3430,7 @@
     {
       "id": "poliedro-2026-0087",
       "colecaoId": "poliedro-2026",
-      "titulo": "4- Primeiro dia",
+      "titulo": "Simulado Poliedro nº 4 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -3441,7 +3441,7 @@
     {
       "id": "poliedro-2026-0088",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -3452,7 +3452,7 @@
     {
       "id": "poliedro-2026-0089",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Primeiro dia",
+      "titulo": "Simulado Poliedro nº 3 (2018) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2018,
       "extensao": "PDF",
@@ -3463,7 +3463,7 @@
     {
       "id": "poliedro-2026-0090",
       "colecaoId": "poliedro-2026",
-      "titulo": "2- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2019) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -3474,7 +3474,7 @@
     {
       "id": "poliedro-2026-0091",
       "colecaoId": "poliedro-2026",
-      "titulo": "2º poliedro 2024 - d2 resolução",
+      "titulo": "Resolução do simulado Poliedro nº 2 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3485,7 +3485,7 @@
     {
       "id": "poliedro-2026-0092",
       "colecaoId": "poliedro-2026",
-      "titulo": "Gabarito dia2 - segundo poliedro enem",
+      "titulo": "Gabarito do simulado Poliedro nº 2 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -3496,7 +3496,7 @@
     {
       "id": "poliedro-2026-0093",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Poliedro nº 1 (2019) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2019,
       "extensao": "PDF",
@@ -3507,7 +3507,7 @@
     {
       "id": "poliedro-2026-0094",
       "colecaoId": "poliedro-2026",
-      "titulo": "1º poliedro 2024 - d2 resolução",
+      "titulo": "Resolução do simulado Poliedro nº 1 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3518,7 +3518,7 @@
     {
       "id": "poliedro-2026-0095",
       "colecaoId": "poliedro-2026",
-      "titulo": "5º poliedro 2024 - prova d2",
+      "titulo": "Simulado Poliedro nº 5 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3529,7 +3529,7 @@
     {
       "id": "poliedro-2026-0096",
       "colecaoId": "poliedro-2026",
-      "titulo": "1- Primeiro dia",
+      "titulo": "Simulado Poliedro nº 1 (2020) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -3540,7 +3540,7 @@
     {
       "id": "poliedro-2026-0097",
       "colecaoId": "poliedro-2026",
-      "titulo": "2º poliedro 2024 - prova d2",
+      "titulo": "Simulado Poliedro nº 2 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3551,7 +3551,7 @@
     {
       "id": "poliedro-2026-0098",
       "colecaoId": "poliedro-2026",
-      "titulo": "3- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Poliedro nº 3 (2018) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2018,
       "extensao": "PDF",
@@ -3562,7 +3562,7 @@
     {
       "id": "poliedro-2026-0099",
       "colecaoId": "poliedro-2026",
-      "titulo": "3º poliedro 2024 - prova d2",
+      "titulo": "Simulado Poliedro nº 3 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3573,7 +3573,7 @@
     {
       "id": "poliedro-2026-0100",
       "colecaoId": "poliedro-2026",
-      "titulo": "2º poliedro enem 2022 - 2º dia - prova",
+      "titulo": "Simulado Poliedro nº 2 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -3584,7 +3584,7 @@
     {
       "id": "sas-2026-0001",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas - gab d1 (azul)",
+      "titulo": "Gabarito do simulado SAS nº 2 (2024) — 1º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -3595,8 +3595,8 @@
     {
       "id": "sas-2026-0002",
       "colecaoId": "sas-2026",
-      "titulo": "Res 1° sas enem 2024 (d1)",
-      "tipo": "Material de apoio",
+      "titulo": "Resolução do simulado SAS nº 1 (2024) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 1059743,
@@ -3606,7 +3606,7 @@
     {
       "id": "sas-2026-0003",
       "colecaoId": "sas-2026",
-      "titulo": "4º sas 2025 - gab d1",
+      "titulo": "Gabarito do simulado SAS nº 4 (2025) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -3617,7 +3617,7 @@
     {
       "id": "sas-2026-0004",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito 1º dia",
+      "titulo": "Gabarito do simulado SAS nº 4 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -3628,7 +3628,7 @@
     {
       "id": "sas-2026-0005",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 3 - gab 1ºd",
+      "titulo": "Gabarito do simulado SAS nº 3 (2025) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -3639,7 +3639,7 @@
     {
       "id": "sas-2026-0006",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução dia 1 amarelo",
+      "titulo": "Resolução do simulado SAS nº 3 (2024) — 1º dia — caderno amarelo",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -3650,7 +3650,7 @@
     {
       "id": "sas-2026-0007",
       "colecaoId": "sas-2026",
-      "titulo": "Anuladas",
+      "titulo": "Questões anuladas SAS nº 4 (2025)",
       "tipo": "Material de apoio",
       "ano": 2025,
       "extensao": "JPG",
@@ -3661,8 +3661,8 @@
     {
       "id": "sas-2026-0008",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução 4º simulado sas enem 2023 -1ºdia",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado SAS nº 4 (2023) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 923561,
@@ -3672,7 +3672,7 @@
     {
       "id": "sas-2026-0009",
       "colecaoId": "sas-2026",
-      "titulo": "2023_6Oenem_1odia_portal_resolucao",
+      "titulo": "Resolução do simulado SAS nº 6 (2023) — 1º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -3683,7 +3683,7 @@
     {
       "id": "sas-2026-0010",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito - dia 1",
+      "titulo": "Gabarito do simulado SAS nº 4 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -3694,7 +3694,7 @@
     {
       "id": "sas-2026-0011",
       "colecaoId": "sas-2026",
-      "titulo": "1 Gab dia 1",
+      "titulo": "Gabarito do simulado SAS nº 1 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -3705,8 +3705,8 @@
     {
       "id": "sas-2026-0012",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução 5º sas enem 2024 - 1º dia - azul",
-      "tipo": "Material de apoio",
+      "titulo": "Resolução do simulado SAS nº 5 (2024) — 1º dia — caderno azul",
+      "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 1007668,
@@ -3716,8 +3716,8 @@
     {
       "id": "sas-2026-0013",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução 5º simulado sas enem 2023 -1ºdia",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado SAS nº 5 (2023) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 453203,
@@ -3727,7 +3727,7 @@
     {
       "id": "sas-2026-0014",
       "colecaoId": "sas-2026",
-      "titulo": "6º sas enem - caderno azul",
+      "titulo": "Simulado SAS nº 6 (2024) — caderno azul",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -3738,7 +3738,7 @@
     {
       "id": "sas-2026-0015",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 1 sas - d1",
+      "titulo": "Gabarito do simulado SAS nº 1 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -3749,7 +3749,7 @@
     {
       "id": "sas-2026-0016",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 1 sas - d2",
+      "titulo": "Gabarito do simulado SAS nº 1 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -3760,7 +3760,7 @@
     {
       "id": "sas-2026-0017",
       "colecaoId": "sas-2026",
-      "titulo": "6° Sas 2025 - gab azul d1",
+      "titulo": "Gabarito do simulado SAS nº 6 (2025) — 1º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -3771,7 +3771,7 @@
     {
       "id": "sas-2026-0018",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas 2025 - gab d1 azul",
+      "titulo": "Gabarito do simulado SAS nº 1 (2025) — 1º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -3782,7 +3782,7 @@
     {
       "id": "sas-2026-0019",
       "colecaoId": "sas-2026",
-      "titulo": "Gab d1 - 3º sas",
+      "titulo": "Gabarito do simulado SAS nº 3 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -3793,7 +3793,7 @@
     {
       "id": "sas-2026-0020",
       "colecaoId": "sas-2026",
-      "titulo": "Gab - d1 2º sas",
+      "titulo": "Gabarito do simulado SAS nº 2 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -3804,7 +3804,7 @@
     {
       "id": "sas-2026-0021",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas - gab d2 (azul)",
+      "titulo": "Gabarito do simulado SAS nº 1 (2024) — 2º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -3815,7 +3815,7 @@
     {
       "id": "sas-2026-0022",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 2 dia 1",
+      "titulo": "Gabarito do simulado SAS nº 2 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -3826,8 +3826,8 @@
     {
       "id": "sas-2026-0023",
       "colecaoId": "sas-2026",
-      "titulo": "D2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2021) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 1680427,
@@ -3837,8 +3837,8 @@
     {
       "id": "sas-2026-0024",
       "colecaoId": "sas-2026",
-      "titulo": "2 - Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2101466,
@@ -3848,7 +3848,7 @@
     {
       "id": "sas-2026-0025",
       "colecaoId": "sas-2026",
-      "titulo": "1º s4s 2026 - gabarito dia 01",
+      "titulo": "Gabarito do simulado SAS nº 1 (2026) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
@@ -3859,7 +3859,7 @@
     {
       "id": "sas-2026-0026",
       "colecaoId": "sas-2026",
-      "titulo": "5º sas 2024 - gab d2_",
+      "titulo": "Gabarito do simulado SAS nº 5 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -3870,8 +3870,8 @@
     {
       "id": "sas-2026-0027",
       "colecaoId": "sas-2026",
-      "titulo": "2° Dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 1415679,
@@ -3881,8 +3881,8 @@
     {
       "id": "sas-2026-0028",
       "colecaoId": "sas-2026",
-      "titulo": "2 - Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 4679704,
@@ -3892,7 +3892,7 @@
     {
       "id": "sas-2026-0029",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas 2025 - gab azul d1",
+      "titulo": "Gabarito do simulado SAS nº 5 (2025) — 1º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -3903,8 +3903,8 @@
     {
       "id": "sas-2026-0030",
       "colecaoId": "sas-2026",
-      "titulo": "5º sas 2024 - dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 6427080,
@@ -3914,7 +3914,7 @@
     {
       "id": "sas-2026-0031",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução - 2º sas enem 2025 - 1º dia - amarelo",
+      "titulo": "Resolução do simulado SAS nº 2 (2025) — 1º dia — caderno amarelo",
       "tipo": "Resolução",
       "ano": 2025,
       "extensao": "PDF",
@@ -3925,8 +3925,8 @@
     {
       "id": "sas-2026-0032",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas 2024 2° dia _240921_164814",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 7312176,
@@ -3936,7 +3936,7 @@
     {
       "id": "sas-2026-0033",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 3 dia 2",
+      "titulo": "Gabarito do simulado SAS nº 3 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -3947,8 +3947,8 @@
     {
       "id": "sas-2026-0034",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2020) — 1º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 6815609,
@@ -3958,8 +3958,8 @@
     {
       "id": "sas-2026-0035",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2020) — 2º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 1560691,
@@ -3969,8 +3969,8 @@
     {
       "id": "sas-2026-0036",
       "colecaoId": "sas-2026",
-      "titulo": "4° Sas dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2020) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 2167808,
@@ -3980,8 +3980,8 @@
     {
       "id": "sas-2026-0037",
       "colecaoId": "sas-2026",
-      "titulo": "2024_6Oenem_2odia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 4567847,
@@ -3991,8 +3991,8 @@
     {
       "id": "sas-2026-0038",
       "colecaoId": "sas-2026",
-      "titulo": "D1- sas 6",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 4941154,
@@ -4002,7 +4002,7 @@
     {
       "id": "sas-2026-0039",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 2 dia 2",
+      "titulo": "Gabarito do simulado SAS nº 2 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -4013,7 +4013,7 @@
     {
       "id": "sas-2026-0040",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 2",
+      "titulo": "Gabarito do simulado SAS nº 4 (2022)",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -4024,7 +4024,7 @@
     {
       "id": "sas-2026-0041",
       "colecaoId": "sas-2026",
-      "titulo": "Gab d1 - sas6",
+      "titulo": "Gabarito do simulado SAS nº 6 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -4035,8 +4035,8 @@
     {
       "id": "sas-2026-0042",
       "colecaoId": "sas-2026",
-      "titulo": "1 - Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 5716132,
@@ -4046,8 +4046,8 @@
     {
       "id": "sas-2026-0043",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 4 dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2021) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 2020691,
@@ -4057,8 +4057,8 @@
     {
       "id": "sas-2026-0044",
       "colecaoId": "sas-2026",
-      "titulo": "6° Sas 1 dia(1)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2020) — 1º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 5870633,
@@ -4068,7 +4068,7 @@
     {
       "id": "sas-2026-0045",
       "colecaoId": "sas-2026",
-      "titulo": "02_2023_6Oenem_2odia_portal_resolucao",
+      "titulo": "Resolução do simulado SAS nº 6 (2023) — 2º dia",
       "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
@@ -4079,7 +4079,7 @@
     {
       "id": "sas-2026-0046",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução dia 2 amarelo",
+      "titulo": "Resolução do simulado SAS nº 3 (2024) — 2º dia — caderno amarelo",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -4090,7 +4090,7 @@
     {
       "id": "sas-2026-0047",
       "colecaoId": "sas-2026",
-      "titulo": "3º sas 2ºd resolucao",
+      "titulo": "Resolução do simulado SAS nº 3 (2021) — 2º dia",
       "tipo": "Resolução",
       "ano": 2021,
       "extensao": "PDF",
@@ -4101,8 +4101,8 @@
     {
       "id": "sas-2026-0048",
       "colecaoId": "sas-2026",
-      "titulo": "3° - 1 Dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2021) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 3519450,
@@ -4112,7 +4112,7 @@
     {
       "id": "sas-2026-0049",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas - gab d2 (rosa)",
+      "titulo": "Gabarito do simulado SAS nº 2 (2024) — 2º dia — caderno rosa",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -4123,8 +4123,8 @@
     {
       "id": "sas-2026-0050",
       "colecaoId": "sas-2026",
-      "titulo": "7° Sas 1 dia(1)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 7 (2020) — 1º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 5820392,
@@ -4134,8 +4134,8 @@
     {
       "id": "sas-2026-0051",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 4 dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2021) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 4200368,
@@ -4145,8 +4145,8 @@
     {
       "id": "sas-2026-0052",
       "colecaoId": "sas-2026",
-      "titulo": "3 - 1° Dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 4693824,
@@ -4156,7 +4156,7 @@
     {
       "id": "sas-2026-0053",
       "colecaoId": "sas-2026",
-      "titulo": "Simu sas 2020 1 dia",
+      "titulo": "Simulado SAS nº 1 (2020) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -4167,8 +4167,8 @@
     {
       "id": "sas-2026-0054",
       "colecaoId": "sas-2026",
-      "titulo": "1- Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2372578,
@@ -4178,8 +4178,8 @@
     {
       "id": "sas-2026-0055",
       "colecaoId": "sas-2026",
-      "titulo": "6° - Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2021) — 2º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 2132104,
@@ -4189,8 +4189,8 @@
     {
       "id": "sas-2026-0056",
       "colecaoId": "sas-2026",
-      "titulo": "1 Sas - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 6741822,
@@ -4200,7 +4200,7 @@
     {
       "id": "sas-2026-0057",
       "colecaoId": "sas-2026",
-      "titulo": "1º s4s 2026 - gabarito dia 02",
+      "titulo": "Gabarito do simulado SAS nº 1 (2026) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2026,
       "extensao": "PDF",
@@ -4211,7 +4211,7 @@
     {
       "id": "sas-2026-0058",
       "colecaoId": "sas-2026",
-      "titulo": "3º sas 1ºd resolucao",
+      "titulo": "Resolução do simulado SAS nº 3 (2021) — 1º dia",
       "tipo": "Resolução",
       "ano": 2021,
       "extensao": "PDF",
@@ -4222,7 +4222,7 @@
     {
       "id": "sas-2026-0059",
       "colecaoId": "sas-2026",
-      "titulo": "Simu sas 2 dia",
+      "titulo": "Simulado SAS nº 1 (2020) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
@@ -4233,8 +4233,8 @@
     {
       "id": "sas-2026-0060",
       "colecaoId": "sas-2026",
-      "titulo": "D1 - 3º sas",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 6449212,
@@ -4244,8 +4244,8 @@
     {
       "id": "sas-2026-0061",
       "colecaoId": "sas-2026",
-      "titulo": "6°- Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2021) — 1º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 5234874,
@@ -4255,8 +4255,8 @@
     {
       "id": "sas-2026-0062",
       "colecaoId": "sas-2026",
-      "titulo": "1 Sas - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 4658459,
@@ -4266,8 +4266,8 @@
     {
       "id": "sas-2026-0063",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 5 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2021) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 4800563,
@@ -4277,8 +4277,8 @@
     {
       "id": "sas-2026-0064",
       "colecaoId": "sas-2026",
-      "titulo": "6° Saa 2 dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2020) — 2º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 2701748,
@@ -4288,7 +4288,7 @@
     {
       "id": "sas-2026-0065",
       "colecaoId": "sas-2026",
-      "titulo": "Gab d2 - sas 6",
+      "titulo": "Gabarito do simulado SAS nº 6 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -4299,7 +4299,7 @@
     {
       "id": "sas-2026-0066",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas 2025 - gab d2",
+      "titulo": "Gabarito do simulado SAS nº 2 (2025) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -4310,8 +4310,8 @@
     {
       "id": "sas-2026-0067",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 4 dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 6338090,
@@ -4321,7 +4321,7 @@
     {
       "id": "sas-2026-0068",
       "colecaoId": "sas-2026",
-      "titulo": "Gab d2 - 3º sas",
+      "titulo": "Gabarito do simulado SAS nº 3 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -4332,8 +4332,8 @@
     {
       "id": "sas-2026-0069",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas - d1 (azul)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2024) — 1º dia — caderno azul",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 7646723,
@@ -4343,7 +4343,7 @@
     {
       "id": "sas-2026-0070",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito 2 dia",
+      "titulo": "Gabarito do simulado SAS nº 2 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -4354,8 +4354,8 @@
     {
       "id": "sas-2026-0071",
       "colecaoId": "sas-2026",
-      "titulo": "7° Sas 2 dia(1)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 7 (2020) — 2º dia — arquivo 1",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 2325558,
@@ -4365,8 +4365,8 @@
     {
       "id": "sas-2026-0072",
       "colecaoId": "sas-2026",
-      "titulo": "6- Dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2021) — 1º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 3020823,
@@ -4376,8 +4376,8 @@
     {
       "id": "sas-2026-0073",
       "colecaoId": "sas-2026",
-      "titulo": "7° Sas 2 dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 7 (2020) — 2º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 4309329,
@@ -4387,7 +4387,7 @@
     {
       "id": "sas-2026-0074",
       "colecaoId": "sas-2026",
-      "titulo": "4° Gab 1 dia",
+      "titulo": "Gabarito do simulado SAS nº 4 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -4398,8 +4398,8 @@
     {
       "id": "sas-2026-0075",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 3 - 1ºd",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2025) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 52812402,
@@ -4409,8 +4409,8 @@
     {
       "id": "sas-2026-0076",
       "colecaoId": "sas-2026",
-      "titulo": "1° Dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2021) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 5050515,
@@ -4420,8 +4420,8 @@
     {
       "id": "sas-2026-0077",
       "colecaoId": "sas-2026",
-      "titulo": "Res_2024_6oenem_2o",
-      "tipo": "Material de apoio",
+      "titulo": "Resolução do simulado SAS nº 6 (2024)",
+      "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 1701970,
@@ -4431,8 +4431,8 @@
     {
       "id": "sas-2026-0078",
       "colecaoId": "sas-2026",
-      "titulo": "2023_6Oenem_1odia_portal",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 7164334,
@@ -4442,7 +4442,7 @@
     {
       "id": "sas-2026-0079",
       "colecaoId": "sas-2026",
-      "titulo": "4º simulado sas enem 2023. 1º dia",
+      "titulo": "Simulado SAS nº 4 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -4453,7 +4453,7 @@
     {
       "id": "sas-2026-0080",
       "colecaoId": "sas-2026",
-      "titulo": "2° Gab 2°dia",
+      "titulo": "Gabarito do simulado SAS nº 2 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -4464,8 +4464,8 @@
     {
       "id": "sas-2026-0081",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2023) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 11641810,
@@ -4475,7 +4475,7 @@
     {
       "id": "sas-2026-0082",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito sas 4 d2",
+      "titulo": "Gabarito do simulado SAS nº 4 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -4486,8 +4486,8 @@
     {
       "id": "sas-2026-0083",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 4 dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2024) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 5798913,
@@ -4497,8 +4497,8 @@
     {
       "id": "sas-2026-0084",
       "colecaoId": "sas-2026",
-      "titulo": "6° Sas 1 dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2020) — 1º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 7277815,
@@ -4508,8 +4508,8 @@
     {
       "id": "sas-2026-0085",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 5517320,
@@ -4519,8 +4519,8 @@
     {
       "id": "sas-2026-0086",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas - d2 (rosa)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2024) — 2º dia — caderno rosa",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 6226658,
@@ -4530,8 +4530,8 @@
     {
       "id": "sas-2026-0087",
       "colecaoId": "sas-2026",
-      "titulo": "3- Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 2124563,
@@ -4541,7 +4541,7 @@
     {
       "id": "sas-2026-0088",
       "colecaoId": "sas-2026",
-      "titulo": "1 Gab dia 2",
+      "titulo": "Gabarito do simulado SAS nº 1 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -4552,7 +4552,7 @@
     {
       "id": "sas-2026-0089",
       "colecaoId": "sas-2026",
-      "titulo": "1° Gab 2° dia",
+      "titulo": "Gabarito do simulado SAS nº 1 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -4563,8 +4563,8 @@
     {
       "id": "sas-2026-0090",
       "colecaoId": "sas-2026",
-      "titulo": "7° Sas 1 dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 7 (2020) — 1º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 6274338,
@@ -4574,7 +4574,7 @@
     {
       "id": "sas-2026-0091",
       "colecaoId": "sas-2026",
-      "titulo": "4° Gab 2 dia",
+      "titulo": "Gabarito do simulado SAS nº 4 (2020) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -4585,8 +4585,8 @@
     {
       "id": "sas-2026-0092",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução 5º simulado sas enem 2023 -2ºdia",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado SAS nº 5 (2023) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 951833,
@@ -4596,7 +4596,7 @@
     {
       "id": "sas-2026-0093",
       "colecaoId": "sas-2026",
-      "titulo": "Prova_18427_20011",
+      "titulo": "Simulado SAS nº 6 (2023)",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -4607,8 +4607,8 @@
     {
       "id": "sas-2026-0094",
       "colecaoId": "sas-2026",
-      "titulo": "3°- Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2021) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 2044352,
@@ -4618,7 +4618,7 @@
     {
       "id": "sas-2026-0095",
       "colecaoId": "sas-2026",
-      "titulo": "3º simulado sas, 2º dia, 2024",
+      "titulo": "Simulado SAS nº 3 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -4629,8 +4629,8 @@
     {
       "id": "sas-2026-0096",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas 2 dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2020) — 2º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 2535800,
@@ -4640,8 +4640,8 @@
     {
       "id": "sas-2026-0097",
       "colecaoId": "sas-2026",
-      "titulo": "6- Dia 2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2021) — 2º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 6199063,
@@ -4651,8 +4651,8 @@
     {
       "id": "sas-2026-0098",
       "colecaoId": "sas-2026",
-      "titulo": "2° Sas 2° dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2020) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 2976966,
@@ -4662,7 +4662,7 @@
     {
       "id": "sas-2026-0099",
       "colecaoId": "sas-2026",
-      "titulo": "3º simulado sas, 1º dia, 2024",
+      "titulo": "Simulado SAS nº 3 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -4673,7 +4673,7 @@
     {
       "id": "sas-2026-0100",
       "colecaoId": "sas-2026",
-      "titulo": "Gab d2 - 2º sas",
+      "titulo": "Gabarito do simulado SAS nº 2 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -4684,8 +4684,8 @@
     {
       "id": "sas-2026-0101",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas 2025 - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2025) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 10028924,
@@ -4695,8 +4695,8 @@
     {
       "id": "sas-2026-0102",
       "colecaoId": "sas-2026",
-      "titulo": "6º sas 2024 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2024) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 8489268,
@@ -4706,8 +4706,8 @@
     {
       "id": "sas-2026-0103",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2020) — 1º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 8102964,
@@ -4717,8 +4717,8 @@
     {
       "id": "sas-2026-0104",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 5 - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 5 (2021) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 1980610,
@@ -4728,7 +4728,7 @@
     {
       "id": "sas-2026-0105",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito sas 5- d1",
+      "titulo": "Gabarito do simulado SAS nº 5 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -4739,8 +4739,8 @@
     {
       "id": "sas-2026-0106",
       "colecaoId": "sas-2026",
-      "titulo": "1º dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2022) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 4144455,
@@ -4750,8 +4750,8 @@
     {
       "id": "sas-2026-0107",
       "colecaoId": "sas-2026",
-      "titulo": "4° Sas dia 1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 4 (2020) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 5299244,
@@ -4761,7 +4761,7 @@
     {
       "id": "sas-2026-0108",
       "colecaoId": "sas-2026",
-      "titulo": "4º simulado sas enem 2023 - 2º dia",
+      "titulo": "Simulado SAS nº 4 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -4772,8 +4772,8 @@
     {
       "id": "sas-2026-0109",
       "colecaoId": "sas-2026",
-      "titulo": "2° Sas 1° dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2020) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 7515025,
@@ -4783,8 +4783,8 @@
     {
       "id": "sas-2026-0110",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas - d1 (amarelo)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2024) — 1º dia — caderno amarelo",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 9113013,
@@ -4794,8 +4794,8 @@
     {
       "id": "sas-2026-0111",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 3 - 2ºd",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2025) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 6694439,
@@ -4805,8 +4805,8 @@
     {
       "id": "sas-2026-0112",
       "colecaoId": "sas-2026",
-      "titulo": "6° Sas 2 dia",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2020) — 2º dia — arquivo 2",
+      "tipo": "Prova ou simulado",
       "ano": 2020,
       "extensao": "PDF",
       "tamanhoBytes": 4132463,
@@ -4816,7 +4816,7 @@
     {
       "id": "sas-2026-0113",
       "colecaoId": "sas-2026",
-      "titulo": "1° Gab 1° dia sas",
+      "titulo": "Gabarito do simulado SAS nº 1 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -4827,7 +4827,7 @@
     {
       "id": "sas-2026-0114",
       "colecaoId": "sas-2026",
-      "titulo": "Gab d1",
+      "titulo": "Gabarito do simulado SAS nº 2 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -4838,7 +4838,7 @@
     {
       "id": "sas-2026-0115",
       "colecaoId": "sas-2026",
-      "titulo": "Gab sas 4 d1",
+      "titulo": "Gabarito do simulado SAS nº 4 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -4849,7 +4849,7 @@
     {
       "id": "sas-2026-0116",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito sas 5 - d2",
+      "titulo": "Gabarito do simulado SAS nº 5 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -4860,7 +4860,7 @@
     {
       "id": "sas-2026-0117",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas 2025 - gab d2 azul",
+      "titulo": "Gabarito do simulado SAS nº 1 (2025) — 2º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -4871,8 +4871,8 @@
     {
       "id": "sas-2026-0118",
       "colecaoId": "sas-2026",
-      "titulo": "Resolução 4º simulado sas enem 2023 - 2ºdia",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado SAS nº 4 (2023) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 1444434,
@@ -4882,7 +4882,7 @@
     {
       "id": "sas-2026-0119",
       "colecaoId": "sas-2026",
-      "titulo": "2° Gab 1 dia",
+      "titulo": "Gabarito do simulado SAS nº 2 (2020) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2020,
       "extensao": "PDF",
@@ -4893,8 +4893,8 @@
     {
       "id": "sas-2026-0120",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas 2025 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2025) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 7244864,
@@ -4904,7 +4904,7 @@
     {
       "id": "sas-2026-0121",
       "colecaoId": "sas-2026",
-      "titulo": "Gabarito dia 2",
+      "titulo": "Gabarito do simulado SAS nº 4 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -4915,8 +4915,8 @@
     {
       "id": "sas-2026-0122",
       "colecaoId": "sas-2026",
-      "titulo": "D2- sas 6",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 6 (2022) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 4762132,
@@ -4926,8 +4926,8 @@
     {
       "id": "sas-2026-0123",
       "colecaoId": "sas-2026",
-      "titulo": "1º sas - d2 (azul)",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2024) — 2º dia — caderno azul",
+      "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 5890158,
@@ -4937,7 +4937,7 @@
     {
       "id": "sas-2026-0124",
       "colecaoId": "sas-2026",
-      "titulo": "Gab 3 dia 1",
+      "titulo": "Gabarito do simulado SAS nº 3 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -4948,7 +4948,7 @@
     {
       "id": "sas-2026-0125",
       "colecaoId": "sas-2026",
-      "titulo": "5° Sas 2025 - gab azul d2",
+      "titulo": "Gabarito do simulado SAS nº 5 (2025) — 2º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -4959,8 +4959,8 @@
     {
       "id": "sas-2026-0126",
       "colecaoId": "sas-2026",
-      "titulo": "1º s4s 2026 - dia 01",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2026) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
       "tamanhoBytes": 9351361,
@@ -4970,7 +4970,7 @@
     {
       "id": "sas-2026-0127",
       "colecaoId": "sas-2026",
-      "titulo": "Sas 3 - gab 2ºd",
+      "titulo": "Gabarito do simulado SAS nº 3 (2025) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -4981,7 +4981,7 @@
     {
       "id": "sas-2026-0128",
       "colecaoId": "sas-2026",
-      "titulo": "6° Sas 2025 - gab azul d2",
+      "titulo": "Gabarito do simulado SAS nº 6 (2025) — 2º dia — caderno azul",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -4992,8 +4992,8 @@
     {
       "id": "sas-2026-0129",
       "colecaoId": "sas-2026",
-      "titulo": "1º s4s 2026 - dia 02",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 1 (2026) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
       "tamanhoBytes": 6188079,
@@ -5003,7 +5003,7 @@
     {
       "id": "sas-2026-0130",
       "colecaoId": "sas-2026",
-      "titulo": "5º simulado sas enem 2023. 1º dia",
+      "titulo": "Simulado SAS nº 5 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5014,7 +5014,7 @@
     {
       "id": "sas-2026-0131",
       "colecaoId": "sas-2026",
-      "titulo": "5º simulado sas enem 2023. 2º dia",
+      "titulo": "Simulado SAS nº 5 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5025,8 +5025,8 @@
     {
       "id": "sas-2026-0132",
       "colecaoId": "sas-2026",
-      "titulo": "D2 - 3º sas",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 3 (2023) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 8157455,
@@ -5036,8 +5036,8 @@
     {
       "id": "sas-2026-0133",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas enem 2025 - 1º dia - amarelo",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2025) — 1º dia — caderno amarelo",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 16214146,
@@ -5047,8 +5047,8 @@
     {
       "id": "sas-2026-0134",
       "colecaoId": "sas-2026",
-      "titulo": "2º sas 2025 - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado SAS nº 2 (2025) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 7843361,
@@ -5058,7 +5058,7 @@
     {
       "id": "somos-anglo-2026-0001",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gabarito 1 dia - 3 simulado _ somos_enem2022",
+      "titulo": "Gabarito do simulado Somos nº 3 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5069,7 +5069,7 @@
     {
       "id": "somos-anglo-2026-0002",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab segundo dia",
+      "titulo": "Modelo de gabarito Somos (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5080,7 +5080,7 @@
     {
       "id": "somos-anglo-2026-0003",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab segundo dia",
+      "titulo": "Modelo de gabarito Somos (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5091,7 +5091,7 @@
     {
       "id": "somos-anglo-2026-0004",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab segundo dia",
+      "titulo": "Modelo de gabarito Somos (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -5102,7 +5102,7 @@
     {
       "id": "somos-anglo-2026-0005",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab segundo dia",
+      "titulo": "Modelo de gabarito Somos (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5113,7 +5113,7 @@
     {
       "id": "somos-anglo-2026-0006",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab primeiro dia",
+      "titulo": "Modelo de gabarito Somos (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5124,7 +5124,7 @@
     {
       "id": "somos-anglo-2026-0007",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab primeiro dia",
+      "titulo": "Modelo de gabarito Somos (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5135,7 +5135,7 @@
     {
       "id": "somos-anglo-2026-0008",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab primeiro dia",
+      "titulo": "Modelo de gabarito Somos (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -5146,7 +5146,7 @@
     {
       "id": "somos-anglo-2026-0009",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo gab primeiro dia",
+      "titulo": "Modelo de gabarito Somos (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5157,8 +5157,8 @@
     {
       "id": "somos-anglo-2026-0010",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Resolução 1 dia somos junho 2022",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Somos nº 4 (2022) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 799611,
@@ -5168,7 +5168,7 @@
     {
       "id": "somos-anglo-2026-0011",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos - gab dia 1",
+      "titulo": "Gabarito do simulado Somos nº 5 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5179,7 +5179,7 @@
     {
       "id": "somos-anglo-2026-0012",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab - d1 - somos 6",
+      "titulo": "Gabarito do simulado Somos nº 6 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5190,7 +5190,7 @@
     {
       "id": "somos-anglo-2026-0013",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "[Gabarito dia 2] quarto somos 2023",
+      "titulo": "Gabarito do simulado Somos nº 4 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5201,7 +5201,7 @@
     {
       "id": "somos-anglo-2026-0014",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gabarito 2 dia - 3 simulado _ somos_enem2022",
+      "titulo": "Gabarito do simulado Somos nº 3 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5212,7 +5212,7 @@
     {
       "id": "somos-anglo-2026-0015",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab somos 1º dia - 01-2024",
+      "titulo": "Gabarito do simulado Somos nº 1 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -5223,7 +5223,7 @@
     {
       "id": "somos-anglo-2026-0016",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos - gab dia 2.pdf",
+      "titulo": "Gabarito do simulado Somos nº 5 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5234,7 +5234,7 @@
     {
       "id": "somos-anglo-2026-0017",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab d1 - 3º somos",
+      "titulo": "Gabarito do simulado Somos nº 3 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5245,7 +5245,7 @@
     {
       "id": "somos-anglo-2026-0018",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3º somos 2024 - resolução d1 -",
+      "titulo": "Resolução do simulado Somos nº 3 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -5256,8 +5256,8 @@
     {
       "id": "somos-anglo-2026-0019",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo folha de redação",
-      "tipo": "Material de apoio",
+      "titulo": "Modelo de folha de redação Somos (2024)",
+      "tipo": "Redação",
       "ano": 2024,
       "extensao": "PDF",
       "tamanhoBytes": 679588,
@@ -5267,8 +5267,8 @@
     {
       "id": "somos-anglo-2026-0020",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Resolução dia 02 - somos 05_2022",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Somos nº 5 (2022) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 3198046,
@@ -5278,7 +5278,7 @@
     {
       "id": "somos-anglo-2026-0021",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab dia 2 somos 02-2023",
+      "titulo": "Gabarito do simulado Somos nº 2 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5289,7 +5289,7 @@
     {
       "id": "somos-anglo-2026-0022",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab somos 6 - d1",
+      "titulo": "Gabarito do simulado Somos nº 6 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5300,7 +5300,7 @@
     {
       "id": "somos-anglo-2026-0023",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Somos nº 5 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5311,7 +5311,7 @@
     {
       "id": "somos-anglo-2026-0024",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Somos nº 4 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5322,7 +5322,7 @@
     {
       "id": "somos-anglo-2026-0025",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Somos nº 1 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5333,7 +5333,7 @@
     {
       "id": "somos-anglo-2026-0026",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Somos nº 1 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5344,7 +5344,7 @@
     {
       "id": "somos-anglo-2026-0027",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab d2 - 3º somos",
+      "titulo": "Gabarito do simulado Somos nº 3 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5355,8 +5355,8 @@
     {
       "id": "somos-anglo-2026-0028",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo folha de redação",
-      "tipo": "Material de apoio",
+      "titulo": "Modelo de folha de redação Somos (2022)",
+      "tipo": "Redação",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 679588,
@@ -5366,8 +5366,8 @@
     {
       "id": "somos-anglo-2026-0029",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo folha de redação",
-      "tipo": "Material de apoio",
+      "titulo": "Modelo de folha de redação Somos (2023)",
+      "tipo": "Redação",
       "ano": 2023,
       "extensao": "PDF",
       "tamanhoBytes": 679588,
@@ -5377,7 +5377,7 @@
     {
       "id": "somos-anglo-2026-0030",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Somos nº 2 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5388,8 +5388,8 @@
     {
       "id": "somos-anglo-2026-0031",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Modelo folha de redação",
-      "tipo": "Material de apoio",
+      "titulo": "Modelo de folha de redação Somos (2021)",
+      "tipo": "Redação",
       "ano": 2021,
       "extensao": "PDF",
       "tamanhoBytes": 679588,
@@ -5399,8 +5399,8 @@
     {
       "id": "somos-anglo-2026-0032",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2025 - d2",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Somos nº 1 (2025) — 2º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 2254416,
@@ -5410,7 +5410,7 @@
     {
       "id": "somos-anglo-2026-0033",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3º somos 2024 - resolução d2 -",
+      "titulo": "Resolução do simulado Somos nº 3 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -5421,7 +5421,7 @@
     {
       "id": "somos-anglo-2026-0034",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1- Segundo dia",
+      "titulo": "Simulado Somos nº 1 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5432,7 +5432,7 @@
     {
       "id": "somos-anglo-2026-0035",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos 2024 - resolução d2 -",
+      "titulo": "Resolução do simulado Somos nº 5 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -5443,7 +5443,7 @@
     {
       "id": "somos-anglo-2026-0036",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2º somos 2024 - gab d2 -",
+      "titulo": "Gabarito do simulado Somos nº 2 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -5454,8 +5454,8 @@
     {
       "id": "somos-anglo-2026-0037",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Resolução dia 01 - somos 05_2022",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Somos nº 5 (2022) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 790182,
@@ -5465,7 +5465,7 @@
     {
       "id": "somos-anglo-2026-0038",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos 2024 - resolução d1 -",
+      "titulo": "Resolução do simulado Somos nº 5 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -5476,7 +5476,7 @@
     {
       "id": "somos-anglo-2026-0039",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos 2024 - prova d2 -",
+      "titulo": "Simulado Somos nº 5 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -5487,7 +5487,7 @@
     {
       "id": "somos-anglo-2026-0040",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "[Gabarito dia 1] quarto somos 2023",
+      "titulo": "Gabarito do simulado Somos nº 4 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5498,7 +5498,7 @@
     {
       "id": "somos-anglo-2026-0041",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab dia 1 somos 02-2023",
+      "titulo": "Gabarito do simulado Somos nº 2 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5509,7 +5509,7 @@
     {
       "id": "somos-anglo-2026-0042",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4º somos 2024 - resolução d2 -",
+      "titulo": "Resolução do simulado Somos nº 4 (2024) — 2º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -5520,7 +5520,7 @@
     {
       "id": "somos-anglo-2026-0043",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4º somos 2024 - resolução d1 -",
+      "titulo": "Resolução do simulado Somos nº 4 (2024) — 1º dia",
       "tipo": "Resolução",
       "ano": 2024,
       "extensao": "PDF",
@@ -5531,7 +5531,7 @@
     {
       "id": "somos-anglo-2026-0044",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Somos nº 3 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5542,7 +5542,7 @@
     {
       "id": "somos-anglo-2026-0045",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gabarito somos 1 - segundo dia",
+      "titulo": "Gabarito do simulado Somos nº 1 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5553,7 +5553,7 @@
     {
       "id": "somos-anglo-2026-0046",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2023 - dia 1 gabarito",
+      "titulo": "Gabarito do simulado Somos nº 1 (2023) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5564,7 +5564,7 @@
     {
       "id": "somos-anglo-2026-0047",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2º somos 2024 - gab d1 -",
+      "titulo": "Gabarito do simulado Somos nº 2 (2024) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -5575,7 +5575,7 @@
     {
       "id": "somos-anglo-2026-0048",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Dia 1 somos 02-2023",
+      "titulo": "Simulado Somos nº 2 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5586,7 +5586,7 @@
     {
       "id": "somos-anglo-2026-0049",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4- Segundo dia",
+      "titulo": "Simulado Somos nº 4 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5597,7 +5597,7 @@
     {
       "id": "somos-anglo-2026-0050",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2025 - gab d1",
+      "titulo": "Gabarito do simulado Somos nº 1 (2025) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -5608,7 +5608,7 @@
     {
       "id": "somos-anglo-2026-0051",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4 Simulado _2 dia _somos_enem2022",
+      "titulo": "Simulado Somos nº 4 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -5619,7 +5619,7 @@
     {
       "id": "somos-anglo-2026-0052",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Somos nº 5 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5630,7 +5630,7 @@
     {
       "id": "somos-anglo-2026-0053",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Somos nº 4 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5641,7 +5641,7 @@
     {
       "id": "somos-anglo-2026-0054",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab somos 6 - d2",
+      "titulo": "Gabarito do simulado Somos nº 6 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5652,7 +5652,7 @@
     {
       "id": "somos-anglo-2026-0055",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2- Gabarito primeiro dia",
+      "titulo": "Gabarito do simulado Somos nº 2 (2021) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5663,8 +5663,8 @@
     {
       "id": "somos-anglo-2026-0056",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Prova 01 - 2026 - resolução dia 01 - somos",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Somos nº 1 (2026) — 1º dia",
+      "tipo": "Resolução",
       "ano": 2026,
       "extensao": "PDF",
       "tamanhoBytes": 1586919,
@@ -5674,7 +5674,7 @@
     {
       "id": "somos-anglo-2026-0057",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2- Segundo dia",
+      "titulo": "Simulado Somos nº 2 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5685,8 +5685,8 @@
     {
       "id": "somos-anglo-2026-0058",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Prova 01 - 2026 - resolução dia 02 - somos",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Somos nº 1 (2026) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2026,
       "extensao": "PDF",
       "tamanhoBytes": 3254801,
@@ -5696,7 +5696,7 @@
     {
       "id": "somos-anglo-2026-0059",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3º somos 2024 - prova d1 -",
+      "titulo": "Simulado Somos nº 3 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -5707,7 +5707,7 @@
     {
       "id": "somos-anglo-2026-0060",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Dia 01 - somos 05_2022",
+      "titulo": "Simulado Somos nº 5 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -5718,7 +5718,7 @@
     {
       "id": "somos-anglo-2026-0061",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Dia 02- somos 05_2022",
+      "titulo": "Simulado Somos nº 5 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -5729,7 +5729,7 @@
     {
       "id": "somos-anglo-2026-0062",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4º somos 2024 - prova d1 -",
+      "titulo": "Simulado Somos nº 4 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -5740,7 +5740,7 @@
     {
       "id": "somos-anglo-2026-0063",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3- Gabarito segundo dia",
+      "titulo": "Gabarito do simulado Somos nº 3 (2021) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2021,
       "extensao": "PDF",
@@ -5751,7 +5751,7 @@
     {
       "id": "somos-anglo-2026-0064",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2023 - dia 1 prova",
+      "titulo": "Simulado Somos nº 1 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5762,7 +5762,7 @@
     {
       "id": "somos-anglo-2026-0065",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2025 - gab d2",
+      "titulo": "Gabarito do simulado Somos nº 1 (2025) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2025,
       "extensao": "PDF",
@@ -5773,7 +5773,7 @@
     {
       "id": "somos-anglo-2026-0066",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Somos 6 - d1",
+      "titulo": "Simulado Somos nº 6 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5784,7 +5784,7 @@
     {
       "id": "somos-anglo-2026-0067",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5- Primeiro dia",
+      "titulo": "Simulado Somos nº 5 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5795,7 +5795,7 @@
     {
       "id": "somos-anglo-2026-0068",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1-Primeiro dia",
+      "titulo": "Simulado Somos nº 1 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5806,8 +5806,8 @@
     {
       "id": "somos-anglo-2026-0069",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2025 - d1",
-      "tipo": "Material de apoio",
+      "titulo": "Simulado Somos nº 1 (2025) — 1º dia",
+      "tipo": "Prova ou simulado",
       "ano": 2025,
       "extensao": "PDF",
       "tamanhoBytes": 5371107,
@@ -5817,7 +5817,7 @@
     {
       "id": "somos-anglo-2026-0070",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Somos 1 - primeiro dia",
+      "titulo": "Simulado Somos nº 1 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -5828,7 +5828,7 @@
     {
       "id": "somos-anglo-2026-0071",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4 Simulado_1dia_somos_enem2022",
+      "titulo": "Simulado Somos nº 4 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -5839,7 +5839,7 @@
     {
       "id": "somos-anglo-2026-0072",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2023 - dia 2 gabarito",
+      "titulo": "Gabarito do simulado Somos nº 1 (2023) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2023,
       "extensao": "PDF",
@@ -5850,7 +5850,7 @@
     {
       "id": "somos-anglo-2026-0073",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5- Segundo dia",
+      "titulo": "Simulado Somos nº 5 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5861,7 +5861,7 @@
     {
       "id": "somos-anglo-2026-0074",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3-Primeiro dia",
+      "titulo": "Simulado Somos nº 3 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5872,7 +5872,7 @@
     {
       "id": "somos-anglo-2026-0075",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4- Primeiro dia",
+      "titulo": "Simulado Somos nº 4 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5883,7 +5883,7 @@
     {
       "id": "somos-anglo-2026-0076",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2- Primeiro dia",
+      "titulo": "Simulado Somos nº 2 (2021) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5894,7 +5894,7 @@
     {
       "id": "somos-anglo-2026-0077",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3º somos d1",
+      "titulo": "Simulado Somos nº 3 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5905,7 +5905,7 @@
     {
       "id": "somos-anglo-2026-0078",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3º somos - d2",
+      "titulo": "Simulado Somos nº 3 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5916,7 +5916,7 @@
     {
       "id": "somos-anglo-2026-0079",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab somos 2º dia - 01-2024",
+      "titulo": "Gabarito do simulado Somos nº 1 (2024) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2024,
       "extensao": "PDF",
@@ -5927,7 +5927,7 @@
     {
       "id": "somos-anglo-2026-0080",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3- Segundo dia",
+      "titulo": "Simulado Somos nº 3 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5938,7 +5938,7 @@
     {
       "id": "somos-anglo-2026-0081",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Somos 6 - d2",
+      "titulo": "Simulado Somos nº 6 (2021) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2021,
       "extensao": "PDF",
@@ -5949,7 +5949,7 @@
     {
       "id": "somos-anglo-2026-0082",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1º somos 2023 - dia 2 prova",
+      "titulo": "Simulado Somos nº 1 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5960,7 +5960,7 @@
     {
       "id": "somos-anglo-2026-0083",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos - prova dia 2",
+      "titulo": "Simulado Somos nº 5 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -5971,7 +5971,7 @@
     {
       "id": "somos-anglo-2026-0084",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Somos 1 - segundo dia",
+      "titulo": "Simulado Somos nº 1 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -5982,7 +5982,7 @@
     {
       "id": "somos-anglo-2026-0085",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2º dia - gabarito",
+      "titulo": "Gabarito do simulado Somos nº 2 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -5993,8 +5993,8 @@
     {
       "id": "somos-anglo-2026-0086",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Resoluçao 2 dia somos junho 2022",
-      "tipo": "Prova ou simulado",
+      "titulo": "Resolução do simulado Somos nº 4 (2022) — 2º dia",
+      "tipo": "Resolução",
       "ano": 2022,
       "extensao": "PDF",
       "tamanhoBytes": 11887872,
@@ -6004,7 +6004,7 @@
     {
       "id": "somos-anglo-2026-0087",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3 Simulado_1 dia _ somos_enem2022",
+      "titulo": "Simulado Somos nº 3 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -6015,7 +6015,7 @@
     {
       "id": "somos-anglo-2026-0088",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3º somos 2024 - prova d2 -",
+      "titulo": "Simulado Somos nº 3 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6026,7 +6026,7 @@
     {
       "id": "somos-anglo-2026-0089",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "D1- somos 6",
+      "titulo": "Simulado Somos nº 6 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -6037,7 +6037,7 @@
     {
       "id": "somos-anglo-2026-0090",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gab - d2 somos 6",
+      "titulo": "Gabarito do simulado Somos nº 6 (2022) — 2º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -6048,7 +6048,7 @@
     {
       "id": "somos-anglo-2026-0091",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1ºdia - gabarito",
+      "titulo": "Gabarito do simulado Somos nº 2 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -6059,7 +6059,7 @@
     {
       "id": "somos-anglo-2026-0092",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Dia 2 somos 02-2023",
+      "titulo": "Simulado Somos nº 2 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -6070,7 +6070,7 @@
     {
       "id": "somos-anglo-2026-0093",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2º somos 2024 - prova d1 -",
+      "titulo": "Simulado Somos nº 2 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6081,7 +6081,7 @@
     {
       "id": "somos-anglo-2026-0094",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "[Prova dia 1] quarto somos 2023",
+      "titulo": "Simulado Somos nº 4 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -6092,7 +6092,7 @@
     {
       "id": "somos-anglo-2026-0095",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Somos 1º dia - 01-2024",
+      "titulo": "Simulado Somos nº 1 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6103,7 +6103,7 @@
     {
       "id": "somos-anglo-2026-0096",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos - prova dia 1",
+      "titulo": "Simulado Somos nº 5 (2023) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -6114,7 +6114,7 @@
     {
       "id": "somos-anglo-2026-0097",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Somos 2º dia - 01-2024",
+      "titulo": "Simulado Somos nº 1 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6125,7 +6125,7 @@
     {
       "id": "somos-anglo-2026-0098",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "5º somos 2024 - prova d1 -",
+      "titulo": "Simulado Somos nº 5 (2024) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6136,7 +6136,7 @@
     {
       "id": "somos-anglo-2026-0099",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "4º somos 2024 - prova d2 -",
+      "titulo": "Simulado Somos nº 4 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6147,7 +6147,7 @@
     {
       "id": "somos-anglo-2026-0100",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Prova 01 - 2026 - dia 02 - somos",
+      "titulo": "Simulado Somos nº 1 (2026) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -6158,7 +6158,7 @@
     {
       "id": "somos-anglo-2026-0101",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Gabarito somos 1 - primeiro dia",
+      "titulo": "Gabarito do simulado Somos nº 1 (2022) — 1º dia",
       "tipo": "Gabarito",
       "ano": 2022,
       "extensao": "PDF",
@@ -6169,7 +6169,7 @@
     {
       "id": "somos-anglo-2026-0102",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "D2 - somos 6",
+      "titulo": "Simulado Somos nº 6 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -6180,7 +6180,7 @@
     {
       "id": "somos-anglo-2026-0103",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "[Prova dia 2] quarto somos 2023",
+      "titulo": "Simulado Somos nº 4 (2023) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2023,
       "extensao": "PDF",
@@ -6191,7 +6191,7 @@
     {
       "id": "somos-anglo-2026-0104",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2º somos 2024 - prova d2 -",
+      "titulo": "Simulado Somos nº 2 (2024) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2024,
       "extensao": "PDF",
@@ -6202,7 +6202,7 @@
     {
       "id": "somos-anglo-2026-0105",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "3 Simulado_2 dia _ somos_enem2022",
+      "titulo": "Simulado Somos nº 3 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -6213,7 +6213,7 @@
     {
       "id": "somos-anglo-2026-0106",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "Prova 01 - 2026 - dia 01 - somos",
+      "titulo": "Simulado Somos nº 1 (2026) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2026,
       "extensao": "PDF",
@@ -6224,7 +6224,7 @@
     {
       "id": "somos-anglo-2026-0107",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "1ºdia - prova",
+      "titulo": "Simulado Somos nº 2 (2022) — 1º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",
@@ -6235,7 +6235,7 @@
     {
       "id": "somos-anglo-2026-0108",
       "colecaoId": "somos-anglo-2026",
-      "titulo": "2º dia - prova",
+      "titulo": "Simulado Somos nº 2 (2022) — 2º dia",
       "tipo": "Prova ou simulado",
       "ano": 2022,
       "extensao": "PDF",

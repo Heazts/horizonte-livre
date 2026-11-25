@@ -4,9 +4,34 @@ import { readFileSync, mkdtempSync, mkdirSync, writeFileSync, copyFileSync, rmSy
 import { spawnSync } from 'node:child_process';
 import { join, resolve, sep } from 'node:path';
 import { tmpdir } from 'node:os';
+import { metadadosDoArquivo } from '../scripts/titulos-catalogo.mjs';
 
 const catalog = JSON.parse(readFileSync(new URL('../site/catalogo.json', import.meta.url), 'utf8'));
 const index = readFileSync(new URL('../site/index.html', import.meta.url), 'utf8');
+test('títulos distinguem o número do simulado do dia da prova', () => {
+  assert.deepEqual(metadadosDoArquivo({
+    colecaoId: 'bernoulli-2026',
+    caminhoNoArquivo: 'Bernoulli/2020/dia 1 simulado 4_2020.pdf'
+  }), {
+    titulo: 'Simulado Bernoulli nº 4 (2020) — 1º dia',
+    ano: 2020,
+    tipo: 'Prova ou simulado'
+  });
+  assert.equal(metadadosDoArquivo({
+    colecaoId: 'hexag-2020-2026',
+    caminhoNoArquivo: 'HEXAG 2020/Simualdo 2/2-Gabarito Primeiro dia 2.pdf'
+  }).titulo, 'Gabarito do simulado Hexag nº 2 (2020) — 1º dia');
+});
+test('títulos públicos são legíveis e distintos dentro de cada coleção', () => {
+  const titles = new Set();
+  for (const { colecaoId, titulo } of catalog.recursos) {
+    assert.match(titulo, /^\p{Lu}/u);
+    assert.doesNotMatch(titulo, /[@_]|\.(?:pdf|jpe?g)\b/i);
+    const key = colecaoId + ':' + titulo.toLowerCase();
+    assert.equal(titles.has(key), false, key);
+    titles.add(key);
+  }
+});
 test('catálogo público tem IDs únicos e dados de acesso controlados', () => {
   assert.equal(catalog.esquema, 'horizonte-livre/catalogo-v2');
   assert.ok(catalog.colecoes.length > 0);

@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#113c39">
   <title>Horizonte Livre — estudar abre caminhos</title>
   <link rel="icon" href="icone.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
@@ -102,7 +102,7 @@
             <p class="side-count" id="total-recursos">564</p><p>arquivos identificados</p>
             <div class="side-line"></div>
             <strong id="total-colecoes">9 coleções</strong>
-            <p>O ano e o tipo são sugeridos a partir do nome do arquivo e podem precisar de revisão.</p>
+            <p>Os anos e tipos são identificados a partir dos nomes originais, quando a informação está disponível.</p>
             <a href="#direitos" class="underlined-link">Conheça as fontes</a>
           </aside>
           <div class="catalog-main">
@@ -117,10 +117,12 @@
                 <button type="reset" class="link-button">Limpar filtros</button>
               </div>
             </form>
+            <p id="atualizacao-portal" hidden>Há uma nova versão do portal. <button type="button" id="atualizar-portal" class="link-button">Atualizar página</button></p>
             <div class="results-top"><p id="resultado-contagem" aria-live="polite">Carregando o acervo...</p><span>ARQUIVOS INDIVIDUAIS</span></div>
+            <p id="acervo-alternativo" hidden><a href="https://github.com/Heazts/horizonte-livre/releases/tag/acervo-inicial-2026">Ver arquivos no GitHub</a></p>
             <div id="resultados" class="result-list"></div>
             <div class="pagination" id="paginacao" hidden><button type="button" id="anterior" class="small-button">Anterior</button><span id="pagina-atual" aria-live="polite"></span><button type="button" id="proxima" class="small-button">Próxima</button></div>
-            <noscript><p>Para pesquisar no acervo, ative o JavaScript. Os links das fontes oficiais permanecem disponíveis acima.</p></noscript>
+            <noscript><p>Para pesquisar no acervo, ative o JavaScript. Você também pode <a href="https://github.com/Heazts/horizonte-livre/releases/tag/acervo-inicial-2026">ver os arquivos no GitHub</a>.</p></noscript>
           </div>
         </div>
       </div>
@@ -164,6 +166,6 @@
     </section>
   </main>
   <footer class="site-footer"><div class="container footer-top"><div><a class="brand footer-brand" href="#inicio"><span class="brand-mark" aria-hidden="true"><span></span></span><span>horizonte<span class="brand-light">livre</span></span></a><p>O conhecimento abre caminhos.<br>Vamos mais longe juntos.</p></div><div><span>EXPLORE</span><a href="#fontes">Materiais</a><a href="#acervo">Acervo</a><a href="#meu-estudo">Meu estudo</a></div><div><span>O PROJETO</span><a href="#sobre">Nossa ideia</a><a href="#direitos">Fontes e direitos</a><a href="https://github.com/Heazts/horizonte-livre" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (abre em nova aba)</span></a></div><div class="footer-message">Estudar abre<br><em>horizontes.</em> ✳</div></div><div class="container footer-bottom"><span>HORIZONTE LIVRE · ACESSO AO CONHECIMENTO</span><a href="#inicio">Voltar ao início</a></div></footer>
-  <script type="module" src="app.js"></script>
+  <script type="module" src="app.js?v=5"></script>
 </body>
 </html>

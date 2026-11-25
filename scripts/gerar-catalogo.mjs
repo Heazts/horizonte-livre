@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { distinguirTitulos, metadadosDoArquivo } from './titulos-catalogo.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const read = (path) => JSON.parse(readFileSync(resolve(root, path), 'utf8'));
@@ -13,21 +14,6 @@ function sentenceCase(value) {
   return text ? text.replace(/\p{L}/u, (letter) => letter.toLocaleUpperCase('pt-BR')) : 'Material de estudo';
 }
 
-function yearFromPath(path) {
-  const matches = [...String(path).matchAll(/(?<!\d)(?:19|20)\d{2}(?!\d)/g)].map((match) => Number(match[0]));
-  const unique = [...new Set(matches)].filter((year) => year >= 1998 && year <= 2100);
-  return unique.length === 1 ? unique[0] : null;
-}
-
-function typeFromName(path) {
-  const name = String(path).toLocaleLowerCase('pt-BR');
-  if (/gabarito|gab(?:arito)?[\s_.-]/.test(name)) return 'Gabarito';
-  if (/resolu[çc][ãa]o|resolvid/.test(name)) return 'Resolução';
-  if (/reda[çc][ãa]o/.test(name)) return 'Redação';
-  if (/prova|caderno|simulad|\bsimu\b/.test(name)) return 'Prova ou simulado';
-  return 'Material de apoio';
-}
-
 const collections = internal.colecoes.map(({ id, titulo }) => ({
   id,
   titulo: sentenceCase(titulo)
@@ -35,19 +21,23 @@ const collections = internal.colecoes.map(({ id, titulo }) => ({
 const resources = internal.recursos.map((resource) => {
   const decision = decisions[resource.id];
   const status = decision?.status ?? 'revisao_de_direitos';
-  const title = sentenceCase(decision?.titulo ?? resource.titulo);
+  const metadata = metadadosDoArquivo(resource);
+  // O título armazenado na publicação inicial só repetia o nome do arquivo.
+  const legacyTitle = decision?.titulo ? sentenceCase(decision.titulo) : null;
+  const manualTitle = legacyTitle !== sentenceCase(resource.titulo) ? legacyTitle : null;
   return {
     id: resource.id,
     colecaoId: resource.colecaoId,
-    titulo: title,
-    tipo: typeFromName(resource.caminhoNoArquivo),
-    ano: yearFromPath(resource.caminhoNoArquivo),
+    titulo: decision?.tituloEditorial?.trim() || manualTitle || metadata.titulo,
+    tipo: metadata.tipo,
+    ano: metadata.ano,
     extensao: resource.extensao.replace(/^\./, '').toUpperCase(),
     tamanhoBytes: resource.tamanhoBytes,
     status,
     url: status === 'autorizado' || status === 'link_para_fonte' ? decision?.url ?? null : null
   };
 });
+distinguirTitulos(resources);
 const unknownDecisions = Object.keys(decisions).filter((id) => !resources.some((resource) => resource.id === id));
 if (unknownDecisions.length) throw new Error('Decisões editoriais sem recurso correspondente: ' + unknownDecisions.join(', '));
 const publicCatalog = {
